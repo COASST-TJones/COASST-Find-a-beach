@@ -1,0 +1,879 @@
+"name","code","city","region","state","start_lat","start_lon","turn_lat","turn_lon","length","monitored","BB.stat","SMD.stat","LMD.stat"
+"Mud Bay Beach","MudBay","Homer","Gulf of Alaska","Alaska",59.63632,-151.498275,59.630806,-151.491599,0.7,TRUE,2,1,1
+"Bass Harbor","BassHrbr","","Gulf of Alaska","Alaska",60.652043,-147.392433,60.65105,-147.386717,0.4,FALSE,NA,NA,NA
+"Derickson Bay Spit","DrcksnBy","","Gulf of Alaska","Alaska",60.47315,-148.335233,60.472283,-148.3412,0.37,FALSE,NA,NA,NA
+"Carlyle Beach","CrlylBch","Seward","Gulf of Alaska","Alaska",60.12407,-149.42162,60.12178,-149.42457,0.288,TRUE,2,1,1
+"Hartney Bay South","HrtnyByS","Cordova","Gulf of Alaska","Alaska",60.496005,-145.87211,60.491109,-145.885358,0.9,TRUE,1,1,1
+"NW Bainbridge Bay","NWBnbrdg","","Gulf of Alaska","Alaska",60.126467,-148.372917,60.133183,-148.360983,1.1,FALSE,NA,NA,NA
+"Cannery Beach North","CnryBchN","Kenai","Gulf of Alaska","Alaska",60.531099,-151.271469,60.547324,-151.260123,2,TRUE,2,1,1
+"Airport Beach","ArprtBch","Seward","Gulf of Alaska","Alaska",60.124033,-149.411405,60.124503,-149.420914,0.5,TRUE,2,1,1
+"Egg Island","EggIs","Cordova","Gulf of Alaska","Alaska",60.391767,-146.016755,60.383737,-145.949393,4,TRUE,1,1,1
+"Silver Salmon Creek","SlvrSlmn","","Gulf of Alaska","Alaska",60.0012,-152.6268,59.95324,-152.6862,6.49,TRUE,1,1,1
+"Bishop's Beach East","BishopsE","Homer","Gulf of Alaska","Alaska",59.637465,-151.540335,59.635925,-151.53507,1.6,TRUE,2,1,1
+"Outside Bay","OutsdBy","","Gulf of Alaska","Alaska",60.648396,-147.462824,60.644724,0.147,0.2,FALSE,NA,NA,NA
+"Hippie Cove","HppieCv","Cordova","Gulf of Alaska","Alaska",60.558367,-145.747917,60.56379,-145.743609,0.68,TRUE,1,1,1
+"Eccles Lagoon Beach","EcclsLgn","Cordova","Gulf of Alaska","Alaska",60.536354,-145.779337,60.53264,-145.787015,0.71,FALSE,NA,NA,NA
+"Spring Creek","SprngCrk","Seward","Gulf of Alaska","Alaska",60.093328,-149.367931,60.088093,-149.353707,0.3,TRUE,2,1,1
+"South Bulldog Cove","SBlldgCv","Kenai Fjords National Park","Gulf of Alaska","Alaska",59.89148,-149.55774,59.89514,-149.5674,0.7,TRUE,2,1,1
+"Mega Beach 1","MegaBch1","Whitter","Gulf of Alaska","Alaska",60.43741,-147.628929,60.438257,-147.632457,0.17,FALSE,NA,NA,NA
+"Coal Bay","ClBy","Homer","Gulf of Alaska","Alaska",59.638867,-151.482093,59.643523,-151.460761,1.34,TRUE,2,1,1
+"Chenega Point","Chenega","","Gulf of Alaska","Alaska",60.281,-148.037117,60.282783,-148.030833,0.4,FALSE,NA,NA,NA
+"McPherson Bay","McPhrsn","","Gulf of Alaska","Alaska",60.652266,-147.381841,60.65202,-147.364715,1,FALSE,NA,NA,NA
+"North Verdant Cove","NVrdntCv","Kenai Fjords National Park","Gulf of Alaska","Alaska",59.71129,-149.74113,59.715035,-149.737029,0.7,TRUE,2,1,1
+"Akhiok","Akhk","Akhiok","Gulf of Alaska","Alaska",56.943657,-154.174529,56.940796,-154.171026,0.5,TRUE,1,1,1
+"Jewel Beach","Jewel","Kodiak","Gulf of Alaska","Alaska",57.733403,-152.494584,57.738288,-152.496114,0.56,TRUE,2,1,1
+"Axel Lind East","AxlLndE","none","Gulf of Alaska","Alaska",60.786483,-147.720267,60.788117,-147.72055,0.2,FALSE,NA,NA,NA
+"South Bainbridge Passage","SBnbrPsg","","Gulf of Alaska","Alaska",60.104583,-148.279167,60.10095,-148.293467,1,FALSE,NA,NA,NA
+"Near Island S End","NrIslndS","Kodiak","Gulf of Alaska","Alaska",57.772811,-152.41284,57.773631,-152.410555,0.2,TRUE,2,1,1
+"Tonsina","Tonsina","Seward","Gulf of Alaska","Alaska",60.04952,-149.44441,60.04644,-149.4436,0.3,TRUE,2,1,1
+"Little Egg Island West","LttlEggW","Cordova","Gulf of Alaska","Alaska",60.42,-146.035,NA,NA,1,TRUE,2,NA,NA
+"Swikshak","Swkshk","Swikshak","Gulf of Alaska","Alaska",58.603207,-153.770032,58.6068,-153.753796,1,TRUE,2,1,1
+"Egg Island- OLD","EggIsOLD","Cordova","Gulf of Alaska","Alaska",60.391767,-146.016755,60.383737,-145.949393,4,FALSE,NA,NA,NA
+"Outside Beach`","OtsdBch","Seldovia Village ","Gulf of Alaska","Alaska",59.45388,-151.71222,59.45922,-151.70788,0.65,TRUE,2,1,1
+"Point Helen","PtHelen","","Gulf of Alaska","Alaska",60.174567,-147.75115,60.154167,-147.768333,2.6,FALSE,NA,NA,NA
+"Fort Abercrombie","FtAbrcmb","Kodiak","Gulf of Alaska","Alaska",57.836084,-152.351892,57.835016,-152.35009,0.16,TRUE,1,1,1
+"Yalik Glacier","YlikGlcr","Kenai Fjords National Park","Gulf of Alaska","Alaska",59.430678,-150.705419,59.424677,-150.727284,1.6,TRUE,2,1,1
+"Southwest Stretch","SWStrtch","Homer","Gulf of Alaska","Alaska",59.608743,-151.440297,59.601152,-151.421809,1.4,TRUE,2,1,1
+"Diamond Creek West","DmndCrkW","Homer","Gulf of Alaska","Alaska",59.677268,-151.723107,59.670064,-151.705154,1,TRUE,NA,NA,NA
+"Fourth of July South","FrthJlyS","Seward","Gulf of Alaska","Alaska",60.084424,-149.353707,60.079906,-149.346932,1,TRUE,2,1,1
+"Land's End","LndsEnd","Homer","Gulf of Alaska","Alaska",59.601152,-151.421809,59.601546,-151.410249,0.8,TRUE,2,1,1
+"Hogan Bay","HgnBy","","Gulf of Alaska","Alaska",60.202611,-147.764,60.197556,-147.766056,0.5,TRUE,1,1,1
+"Kenai North","KenaiN","Kenai","Gulf of Alaska","Alaska",60.551821,-151.275242,60.559443,-151.295886,1.5,TRUE,2,1,1
+"Homer Spit Middle","HmrSptMd","Homer","Gulf of Alaska","Alaska",59.608085,-151.439068,59.61627,-151.453826,0.8,TRUE,2,1,1
+"South Twin Bay","STwnBy","","Gulf of Alaska","Alaska",59.9399,-148.201933,59.950983,-148.177667,1.77,FALSE,NA,NA,NA
+"Roslyn Beach","RslynBch","Kodiak","Gulf of Alaska","Alaska",57.627215,-152.326793,57.618023,-152.30955,1.55,TRUE,1,1,1
+"Axel Lind West","AxlLndW","","Gulf of Alaska","Alaska",60.786783,-147.7227,60.787883,-147.7239,0.2,FALSE,NA,NA,NA
+"Pasagshak Beach","Psgshk","Kodiak","Gulf of Alaska","Alaska",57.466439,-152.471022,57.468872,-152.48738,1.03,TRUE,2,1,1
+"Cabin Bay","CbnBay","","Gulf of Alaska","Alaska",60,147,60,147,0.48,FALSE,NA,NA,NA
+"Buskin River","BsknRvr","Kodiak","Gulf of Alaska","Alaska",57.756597,-152.48332,57.764207,-152.474023,1,TRUE,2,1,1
+"Barge Basin North Bc","BrgBsnNt","Homer","Gulf of Alaska","Alaska",59.616464,-151.452493,59.625048,-151.467707,2,TRUE,2,1,1
+"West Bainbridge Passage","WBnbrPsg","","Gulf of Alaska","Alaska",60.168333,-148.127717,60.16895,-148.12915,0.15,FALSE,NA,NA,NA
+"Pederson Peninsula","PdrsnPnn","Kenai Fjords National Park","Gulf of Alaska","Alaska",59.8839,-149.71706,59.88014,-149.72784,0.7,TRUE,2,1,1
+"Anchor River State Recreation Area","AnchRvRc","Homer","Gulf of Alaska","Alaska",59.774293,-151.867112,59.75685,-151.86149,2,TRUE,1,1,1
+"Northwestern Spit","NwstnSpt","Kenai Fjords National Park","Gulf of Alaska","Alaska",59.71129,-149.74113,59.7152,-149.73622,1.8,TRUE,2,1,1
+"Head of Passage Canal","HdPsgCnl","Whittier","Gulf of Alaska","Alaska",60.778571,-148.717521,60.784275,-148.717845,0.67,FALSE,NA,NA,NA
+"Hallo","Hallo","Kukak","Gulf of Alaska","Alaska",58.45671,-154.0737,58.44767,-154.07214,1,TRUE,2,1,1
+"Afognak Beach","AfgnkBch","Seward","Gulf of Alaska","Alaska",60.122395,-149.372362,60.115294,-149.361515,1,FALSE,2,1,1
+"Holiday Beach","HldyBch","Kodiak","Gulf of Alaska","Alaska",57.683264,-152.470053,57.687533,-152.476347,0.6,TRUE,2,1,1
+"O'Brien Creek Beach","OBnCrk","Chenega","Gulf of Alaska","Alaska",60.07185,-147.99905,60.0704,-147.99316667,0.5,TRUE,2,1,1
+"Bishop's Beach Mid","BishopsM","Homer","Gulf of Alaska","Alaska",59.639592,-151.559692,59.637465,-151.540335,1,TRUE,1,1,1
+"Fox Farm Beach","FoxFarm","","Gulf of Alaska","Alaska",59.979833,-148.181183,59.96825,-148.176617,1.5,FALSE,1,1,1
+"Little Egg Island North","LttlEggN","Cordova","Gulf of Alaska","Alaska",60.42,-146.035,60.418106,-146.018434,0.96561,TRUE,2,1,1
+"West Northwest Bay","WNWBay","","Gulf of Alaska","Alaska",60.543267,-147.604667,60.545883,-147.601467,0.4,FALSE,NA,NA,NA
+"Peterson Bay","PtrsnBy","Homer","Gulf of Alaska","Alaska",59.578846,-151.305844,59.575351,-151.294255,1,TRUE,1,1,1
+"Neptune Bay","NptnBy","Homer","Gulf of Alaska","Alaska",59.5468,-151.41488,59.541467,-151.399483,1,TRUE,2,1,1
+"Landing Cove Chowiet","LCChowt","Chowiet Island","Gulf of Alaska","Alaska",56.037197,-156.7403,56.0363,-156.738747,0.1,TRUE,2,1,1
+"Spruce Cape","SprcCp","Kodiak","Gulf of Alaska","Alaska",57.825035,-152.327105,57.821144,-152.32717,0.5,TRUE,2,1,1
+"Gibson Cove","GbsnCv","Kodiak","Gulf of Alaska","Alaska",57.772688,-152.454024,57.773019,-152.45895,0.49,TRUE,2,1,1
+"Kasilof Mouth South","KslfMthS","Cohoe","Gulf of Alaska","Alaska",60.382747,-151.321859,60.388239,-151.310125,0.97,TRUE,2,1,1
+"Anchor River S","AnchrRS","Homer","Gulf of Alaska","Alaska",59.77441,-151.867267,59.79444,151.85417,2.2,TRUE,2,1,1
+"White Sands","WhSnds","Kodiak","Gulf of Alaska","Alaska",57.840662,-152.441857,57.840374,-152.446573,0.3,TRUE,1,1,1
+"Harbor Mouth","HrbrMth","Homer","Gulf of Alaska","Alaska",59.602031,-151.411677,59.603621,-151.416199,0.4,TRUE,2,1,1
+"North Twin Bay","NthTwnBy","None","Gulf of Alaska","Alaska",59.974533,-148.1885,59.967317,-148.185833,0.95,FALSE,NA,NA,NA
+"Green Island Bay","GrnIndBy","Green Island","Gulf of Alaska","Alaska",60.293447,-147.393592,60.293265,-147.380179,0.93,FALSE,NA,NA,NA
+"Mayflower Beach","Myflwr","Kodiak","Gulf of Alaska","Alaska",57.646892,-152.437933,57.651366,-152.43929,0.55,TRUE,2,1,1
+"South Bay","SthBy","","Gulf of Alaska","Alaska",60.668761,-147.930643,NA,NA,0.58,TRUE,2,1,1
+"Boswell South","BswllS","Cordova","Gulf of Alaska","Alaska",60.380431,-146.088296,60.359725,-146.196969,7.26,TRUE,1,1,1
+"West Mummy","WMmmy","Cordova","Gulf of Alaska","Alaska",60.46467,-146.01986,60.46117,-146.01334,1,TRUE,2,1,1
+"North Mummy","NMmmy","Cordova","Gulf of Alaska","Alaska",60.46611,-146.00817,60.46364,-145.99782,1,TRUE,2,1,1
+"Mariner Park","MarinrPK","Homer","Gulf of Alaska","Alaska",59.635217,-151.513739,59.630478,-151.492403,1.3,TRUE,2,1,1
+"Puale Bay 2","puba2","Kodiak","Gulf of Alaska","Alaska",57.70706,-155.63422,57.69963,-155.63097,1.29,TRUE,2,1,1
+"Seward Waterfront","SwrdWtrf","Seward","Gulf of Alaska","Alaska",60.104666,-149.43355,60.11227,-149.43656,0.9,TRUE,1,1,1
+"NW Cold Bay","NWColdBy","Cold Bay","Gulf of Alaska","Alaska",55.231725,-162.720724,55.219931,-162.72446,1.4,TRUE,1,1,1
+"Cold Bay - Dock S","CldByDck","Cold Bay","Gulf of Alaska","Alaska",55.204517,-162.702933,55.196117,-162.697883,1.4,TRUE,1,1,1
+"North Hallo","NHallo","Kukak","Gulf of Alaska","Alaska",58.45671,-154.0737,58.46572,-154.07587,1,TRUE,2,1,1
+"Hartney Bay North","HrtnyByN","Cordova","Gulf of Alaska","Alaska",60.49565,-145.871417,60.504033,-145.861617,1.2,TRUE,2,1,1
+"Miller's Landing","MllrsLnd","Homer","Gulf of Alaska","Alaska",59.666673,-151.436837,59.670803,-151.423827,1,TRUE,2,1,1
+"Sand Dollar Beach","SndDllrB","Sand Point -- Popof Island","Gulf of Alaska","Alaska",55.339996,-160.434457,55.337834,-160.422816,0.8,FALSE,NA,NA,NA
+"Goose Cove","GsCve","Cordova","Gulf of Alaska","Alaska",60.44614,-145.88916,NA,NA,1,TRUE,2,1,1
+"Outer Outside Bay","OtrOtsdB","","Gulf of Alaska","Alaska",60.650095,-147.43774,60.651143,-147.440004,1,TRUE,1,1,1
+"James Lagoon","JmsLgn","Kenai Fjords National Park","Gulf of Alaska","Alaska",59.561091,-150.41023,59.562061,-150.39806,1.6,TRUE,2,1,1
+"East Mummy","EMmmy","","Gulf of Alaska","Alaska",60.4611,-146.01298,60.46313,-145.99353,1.5,TRUE,2,1,1
+"Mill Bay","MllBy","Kodiak","Gulf of Alaska","Alaska",57.819372,-152.350934,57.821377,-152.354953,0.35,TRUE,1,1,1
+"Ram Site","RmSt","Kodiak","Gulf of Alaska","Alaska",57.83052,-152.365073,57.828283,-152.3781,0.8,TRUE,2,1,1
+"Ninilchik South","NlchkSth","Ninilchik","Gulf of Alaska","Alaska",60.054504,-151.665516,60.042688,-151.67912,1.52,TRUE,1,1,1
+"Marina Cordova","MrnCrdv","Cordova","Gulf of Alaska","Alaska",60.532231,-145.78723,60.527519,-145.79378,0.7,TRUE,2,1,1
+"Mission Lake Beach","MssnLk","Kodiak","Gulf of Alaska","Alaska",57.799637,-152.36837,57.79735,-152.373144,0.43,TRUE,2,1,1
+"Kenai River Mouth North","KniRvMtN","Kenai","Gulf of Alaska","Alaska",60.551451,-151.274473,60.55013,-151.26221,0.77,TRUE,2,1,1
+"Kincaid South","KncdSth","Anchorage ","Gulf of Alaska","Alaska",61.15275,-150.06912,61.14844,-150.05315,1,TRUE,2,1,1
+"SE Ingot Bay","SEIngtBy","","Gulf of Alaska","Alaska",60.506467,-147.614917,60.510646,-147.616453,0.47,FALSE,NA,NA,NA
+"Bishop's Beach West","BishopsW","Homer","Gulf of Alaska","Alaska",59.642446,-151.584811,59.639592,-151.559692,1.2,TRUE,2,1,1
+"Mega Beach 2","MegaBch2","Whitter","Gulf of Alaska","Alaska",60.4375,-147.633383,60.438053,-147.636267,0.23,FALSE,NA,NA,NA
+"Chinitna Bay","ChntnBy","","Gulf of Alaska","Alaska",59.88245,-153.0388,59.86114,-153.1394,6.2,TRUE,2,1,1
+"Lowell Point South","LowellS","Seward","Gulf of Alaska","Alaska",60.064952,-149.442601,60.071048,-149.435493,1,TRUE,2,1,1
+"South Beach Chowiet","SBChowt","Chowiet Island","Gulf of Alaska","Alaska",56.024119,-156.716461,56.023536,-156.71964,0.2,TRUE,2,1,1
+"Lowell Point North","LowellN","Seward","Gulf of Alaska","Alaska",60.075202,-149.439086,60.071048,-149.435493,0.3,TRUE,2,1,1
+"Orca Cannery","OrCnnry","Cordova","Gulf of Alaska","Alaska",60.578462,-145.721723,60.580411,-145.718343,0.33,TRUE,2,1,1
+"Buskin Glass Beach","BsknGlss","Kodiak","Gulf of Alaska","Alaska",57.767008,-152.469318,57.768446,-152.467477,0.1,TRUE,2,1,1
+"Puale Bay 1","puba1","Kodiak","Gulf of Alaska","Alaska",57.73733,-155.62286,57.70706,-155.63422,3.61,TRUE,2,1,1
+"Diamond Creek North","DMCN","Homer","Gulf of Alaska","Alaska",59.72888889,-151.81277778,59.90222222,-151.98916667,1.83,TRUE,2,NA,NA
+"Buldir Is Transect C","BldrIsC","Buldir Island","Aleutian Islands","Alaska",52.371266,-184.109767,52.373029,-184.095765,1,TRUE,2,1,1
+"Oystercatcher Beach","OystrBch","Kasatochi Island","Aleutian Islands","Alaska",52.171465,-175.516799,NA,NA,0.5,TRUE,1,1,1
+"Buldir Is Transect D","BldrIsD","Buldir Island","Aleutian Islands","Alaska",52.35027,-184.045084,52.34363,-184.04967,1,TRUE,2,1,1
+"Dutch Harbor Spit","DchHbSpt","Dutch Harbor","Aleutian Islands","Alaska",53.913053,-166.503629,53.897162,-166.515326,1.94,TRUE,1,1,1
+"Petrel Cove","PetrlCv","Aiktak Island","Aleutian Islands","Alaska",54.178006,-164.83996,NA,NA,0.1,TRUE,1,1,1
+"Grand-WaterTreatment","GrndToWT","Dutch Harbor","Aleutian Islands","Alaska",53.885404,-166.553632,53.879197,-166.559243,0.8,TRUE,1,1,1
+"Palisades","Plsds","Adak","Aleutian Islands","Alaska",51.915454,-176.571708,51.908169,-176.594272,2.3,TRUE,2,1,1
+"Summer Bay Beach","SmmrBy","Unalaska","Aleutian Islands","Alaska",53.8988,-166.4651,53.8977,-166.4572,0.53,TRUE,1,1,1
+"Buldir Is Transect A","BldrIsA","Buldir Island","Aleutian Islands","Alaska",52.375295,-184.129155,52.371411,-184.118128,0.8,TRUE,2,1,1
+"Outfall Beach","Outfall","","Aleutian Islands","Alaska",53.88545,-166.5553,53.87788,-166.56414,1.15,TRUE,1,NA,NA
+"Buldir Is Transect B","BldrIsB","Buldir Island","Aleutian Islands","Alaska",52.371411,-184.118128,52.371266,-184.109767,0.5,TRUE,2,1,1
+"Old Camp-New","OldNew","Aiktak Island","Aleutian Islands","Alaska",54.188528,-164.837958,54.183797,-164.845672,1.3,TRUE,1,1,1
+"Airport Beach South","AprtBchS","","Aleutian Islands","Alaska",53.88545,-166.5553,53.88728,-166.54821,0.53,TRUE,1,NA,NA
+"Front Beach Unalska","FrntUnka","Unalaska","Aleutian Islands","Alaska",53.87762,-166.538278,53.872966,-166.524588,1.07,TRUE,2,1,1
+"Humpy Cove Beach","HmpyCve","Unalaska","Aleutian Islands","Alaska",53.9045,-166.4434,53.9019,-166.4452,0.32,TRUE,1,1,1
+"Little South America","LtSthAm","Dutch Harbor","Aleutian Islands","Alaska",53.87737,-166.565699,53.871458,-166.560561,0.81,TRUE,2,1,1
+"Morris Cove","MrrsCv","","Aleutian Islands","Alaska",53.912367,-166.436444,53.923742,-166.436228,1.72,TRUE,2,1,1
+"Buldir Is Transect E","BldrIsE","Buldir Island","Aleutian Islands","Alaska",52.370668,-184.076445,52.36732,-184.052559,1.4,TRUE,2,1,1
+"Short Beach Savoonga","SBSAV","Savoonga","Bering Sea","Alaska",63.696257,-170.472998,63.695662,-170.470301,0.125,TRUE,2,NA,NA
+"NE Neumann Island","NENmnIsl","Cold Bay","Bering Sea","Alaska",55.41328,-162.70125,55.40814,-162.72076,1.3,TRUE,1,1,1
+"Mile 25 Council Rd","MI25CnlR","Nome","Bering Sea","Alaska",64.49138889,-164.65638889,64.49516667,-164.63861111,0.95,TRUE,1,1,1
+"Benson Beach North","BnsnBchN","St Paul","Bering Sea","Alaska",57.232461,-170.118007,57.226608,-170.131214,1,TRUE,2,1,1
+"Cape Glazenap","CpGlznp","Cold Bay","Bering Sea","Alaska",55.24669,-163.00694,55.2372,-163.0201,1.3,TRUE,1,1,1
+"Cape Nome","CpNm","Nome","Bering Sea","Alaska",64.43527778,-165.01083333,64.43722222,-165.0225,0.61,TRUE,1,1,1
+"Nome River West","NmRvrW","Nome","Bering Sea","Alaska",64.48583333,165.31833333,64.4825,165.30277778,0.839,TRUE,NA,NA,NA
+"Staraya Artil","StryArtl","St George","Bering Sea","Alaska",56.604218,-169.609128,NA,NA,0.9,TRUE,1,1,1
+"Benson Beach FULL","BnsnFll","","Bering Sea","Alaska",NA,NA,NA,NA,6.5,TRUE,NA,NA,NA
+"Naknek Beach","NaknkBch","Naknek","Bering Sea","Alaska",58.73727,-157.06467,58.746207,-157.065066,1,TRUE,2,1,1
+"Hall Island","Hlslnd","Hall Island","Bering Sea","Alaska",60.64993,-173.06128,60.64096,-173.05292,1.1,TRUE,1,1,1
+"Polovina Beach FULL","PlvnBFLL","","Bering Sea","Alaska",NA,NA,NA,NA,1.9,TRUE,NA,NA,NA
+"East Beach","EastBch","Nome","Bering Sea","Alaska",64.488784,-165.342679,64.484569,-165.308752,1.77,TRUE,2,1,1
+"North Beach St Paul Full","NBchSPF","St Paul","Bering Sea","Alaska",57.231715,-170.132272,57.211351,-170.285896,9.5,TRUE,NA,NA,NA
+"Bonawza Channel","BnwzChnl","Nome","Bering Sea","Alaska",64.54306,-164.43556,64.548222,-164.405917,1.56,TRUE,1,1,1
+"East End","EstEnd","Nome","Bering Sea","Alaska",64.492887,-165.375876,64.48904,-165.344432,1.6,TRUE,2,1,1
+"Port Heiden","PrtHdn","Port Heiden","Bering Sea","Alaska",NA,NA,NA,NA,1.12,TRUE,1,1,1
+"Zappa Beach","ZappaBch","St George","Bering Sea","Alaska",56.569117,-169.689712,56.592551,-169.693873,0.9,TRUE,1,1,1
+"Polovina Beach","PlvnBch","St Paul","Bering Sea","Alaska",57.157762,-170.1944286,57.154032,-170.206837,1,TRUE,2,1,1
+"Lukanin South FULL","LknnSFLL","","Bering Sea","Alaska",NA,NA,NA,NA,3.1,TRUE,NA,NA,NA
+"Long Beach Savoonga","LBSAV","Savoonga","Bering Sea","Alaska",63.695143,-170.468694,63.693127,170.453641,0.8,TRUE,2,NA,NA
+"Lukanin South","LknnSth","St Paul","Bering Sea","Alaska",57.135803,-170.261906,57.141781,-170.25214,1,TRUE,2,1,1
+"North Beach St Paul","NBchStPl","St Paul","Bering Sea","Alaska",57.231715,-170.132272,57.226199,-170.147967,1,TRUE,2,1,1
+"Kanakanak Beach","KnknkBch","Dillingham","Bering Sea","Alaska",59.011884,-158.534114,59.024179,-158.527712,1,TRUE,1,1,1
+"Sitka Historic Park","StkaHist","Sitka","Southeast Alaska","Alaska",57.048526,-135.319487,57.046097,-135.311711,0.76,TRUE,2,1,1
+"Kruzof SE","KrzfSE","Sitka","Southeast Alaska","Alaska",57.00681,-135.707765,57.130704,-135.56981,0.5,TRUE,1,1,1
+"Skagway River","SkgwyRvr","Skagway","Southeast Alaska","Alaska",59.45382,-135.328,59.44998,-135.32934,0.6,TRUE,2,1,1
+"Shelikof","Shlkf","Sitka","Southeast Alaska","Alaska",57.166373,-135.74698,57.15683,-135.745802,1,TRUE,1,1,1
+"Kruzof Kamenoi","KrzfKmni","Sitka","Southeast Alaska","Alaska",57.12819,-135.572629,57.1309,-135.568651,0.4,TRUE,1,1,1
+"Skagway Boat Harbor","SkgwyBt","Skagway","Southeast Alaska","Alaska",59.450897,-135.319921,59.450373,-135.318529,0.1,TRUE,2,1,1
+"Sea Mart to Sandy","SmrtSndy","Sitka","Southeast Alaska","Alaska",57.065299,-135.365268,57.076877,-135.376137,1,TRUE,1,1,1
+"Buggy Beach","BgyBch","Ketchikan","Southeast Alaska","Alaska",55.310253,-131.581856,55.307046,-131.576231,0.69,TRUE,2,1,1
+"Halibut Point Rec","HlbtPtRc","Sitka","Southeast Alaska","Alaska",57.104556,-135.401711,57.09803,-135.396453,1,TRUE,1,1,1
+"Sandy Beach - Douglas","sndydoug","Douglas","Southeast Alaska","Alaska",58.273651,-134.386293,58.267798,-134.375466,0.97,TRUE,2,1,1
+"Cannon Beach South","CnnnSth","Yakutat","Southeast Alaska","Alaska",59.486851,-139.714368,59.492022,-139.728298,0.97,TRUE,2,1,1
+"John Brown's Beach","JhnBrwns","Sitka","Southeast Alaska","Alaska",57.05501,-135.370944,57.054722,-135.371361,0.1,TRUE,1,1,1
+"AukRec-OLD","AukeRec2","Juneau","Southeast Alaska","Alaska",58.372109,-134.726101,58.377384,-134.710446,1.5,FALSE,NA,NA,NA
+"Shrine of St Terese","ShrStTrs","Juneau","Southeast Alaska","Alaska",58.473505,-134.787215,58.474867,-134.782891,0.55,TRUE,2,1,1
+"Refuge Cove","RfgCv","Ketchikan","Southeast Alaska","Alaska",55.409136,-131.75987,55.419291,-131.767217,1.86,TRUE,1,1,1
+"Good River","GdRvr","Gustavus","Southeast Alaska","Alaska",58.396572,-135.759954,58.397032,-135.738091,1.3,TRUE,2,1,1
+"Sheep Creek","ShpCrk","Juneau","Southeast Alaska","Alaska",58.26148,-134.32856,58.2627,-134.33256,0.27,TRUE,2,1,1
+"Mendenhall River","MndnhllR","Juneau","Southeast Alaska","Alaska",58.346146,-134.62276,58.340836,-134.635144,1.3,TRUE,2,1,1
+"Mendenhall Peninsula","MndnhllP","Juneau","Southeast Alaska","Alaska",58.34768,-134.64499,58.340879,-134.635334,0.91,TRUE,NA,NA,NA
+"Auke Bay Harbor","AkByHrbr","Juneau","Southeast Alaska","Alaska",58.385672,-134.646116,58.386288,-134.650812,0.5,FALSE,NA,NA,NA
+"Nahku Bay Beach","NhkuBay","Skagway","Southeast Alaska","Alaska",59.47919,-135.336661,59.479003,-135.33511,0.1,TRUE,2,1,1
+"Cannon Beach North","CnnnBchN","Yakutat","Southeast Alaska","Alaska",59.491924,-139.72834,59.504238,-139.763831,2.44,TRUE,2,1,1
+"Lester Point","LstrPt","Gustavus","Southeast Alaska","Alaska",58.451697,-135.931677,58.451666,-135.946102,1,TRUE,2,1,1
+"Viking Cove","VkngCv","Haines","Southeast Alaska","Alaska",59.146971,-135.344398,59.138161,-135.339835,1.1,TRUE,2,2,2
+"Mendenhall Point","MndnhlPt","Juneau","Southeast Alaska","Alaska",58.34422,-134.621358,58.340879,-134.635334,0.95,TRUE,2,1,1
+"Kruzof SW","KrzfSW","Sitka","Southeast Alaska","Alaska",57.1295,-135.57075,57.005044,-135.714156,0.7,TRUE,1,1,1
+"Auke Rec","AukeRec","Juneau","Southeast Alaska","Alaska",58.372109,-134.726101,58.377384,-134.710446,1.5,TRUE,2,1,1
+"Gustavus Salmon Good Rivers","GstvSmGR","Gustavus","Southeast Alaska","Alaska",58.394698,-135.738363,58.394231,-135.758387,1.17,TRUE,2,1,1
+"Halibut Point","HlbtPt","Gustavus","Southeast Alaska","Alaska",58.45377,-135.887696,58.450283,-135.900279,0.87,TRUE,2,1,1
+"Spaulding","Spldng","Juneau","Southeast Alaska","Alaska",58.384485,-134.65765,58.386355,-134.650846,0.5,TRUE,1,1,1
+"Turnaround Beach","Trnrnd","Sitka","Southeast Alaska","Alaska",57.057953,-135.348319,57.058614,-135.347744,0.1,TRUE,1,1,1
+"Herring Cove","Hrrngcv","Sitka","Southeast Alaska","Alaska",57.045248,-135.202641,57.043354,-135.199725,0.3,TRUE,1,1,1
+"Whiting Inlet","Whiting","Juneau","Southeast Alaska","Alaska",57.99615,-133.713112,58.003621,-133.696268,1.4,TRUE,2,1,1
+"Eagle Beach","EglBch","Juneau","Southeast Alaska","Alaska",58.534137,-134.831339,58.526709,-134.822243,1.07,TRUE,2,1,1
+"Fish Creek","FshCrk","Juneau","Southeast Alaska","Alaska",58.32347,-134.619879,58.324942,-134.604392,0.97,TRUE,2,1,1
+"Boy Scout Beach","BoyScout","Juneau","Southeast Alaska","Alaska",58.525132,-134.83187,58.514708,-134.826432,2.4,TRUE,1,1,1
+"Douglas Point SW","DglsPtSW","Douglas","Southeast Alaska","Alaska",58.285971,-134.674563,58.290032,-134.676526,0.42,TRUE,2,1,1
+"Bear Cove","BearCove","Sitka","Southeast Alaska","Alaska",57.013459,-135.14996,57.011011,-135.155792,0.5,TRUE,1,1,1
+"Glenn's Ditch","GlnnsDch","Gustavus","Southeast Alaska","Alaska",58.39251,-135.70996,58.39653,-135.7357,1.9,TRUE,2,1,1
+"Cowee Creek/False Outer Pt","CwCrkFOP","Juneau","Southeast Alaska","Alaska",58.30058,-134.677592,58.297002,-134.677874,0.42,TRUE,2,1,1
+"N Tent City","NTentCty","Kotzebue","Chukchi","Alaska",66.903403,-162.56869,66.902098,-162.54018,1.08,TRUE,2,1,1
+"Dog Camp-Base Rd","DgCmpBs","Kotzebue","Chukchi","Alaska",66.843372,-162.608152,66.838115,-162.59806,0.73,TRUE,1,1,1
+"LaVonne's - Sadie Creek","LVnsSdCr","Kotzebue","Chukchi","Alaska",66.838091,-162.597944,66.815944,-162.556683,3,FALSE,NA,NA,NA
+"Sadie Creek","SadieCr","Kotzebue","Chukchi","Alaska",66.824049,-162.570077,66.8159,-162.557642,1.07,TRUE,2,1,1
+"NARL","NARL","Utqiagvik","Chukchi","Alaska",71.324119,-156.692553,71.329375,-156.674062,0.8,TRUE,2,NA,NA
+"Churchrock","Chrchrck","Kotzebue","Chukchi","Alaska",66.136765,-161.651669,66.161175,-161.627993,2.97,TRUE,2,1,1
+"Cape Lisburne","CpLsbrne","Cape Lisburne","Chukchi","Alaska",68.873617,-166.0847,68.871133,-166.043333,1.66,TRUE,1,1,1
+"Front St-Barge","FrtStBrg","Kotzebue","Chukchi","Alaska",66.891769,-162.607779,66.866648,-162.623462,2.91,TRUE,1,1,1
+"Sarichef Island East","SrchfIsE","Shishmaref","Chukchi","Alaska",66.246587,-166.103854,66.255389,-166.076566,1.6,TRUE,2,1,1
+"Lavonne's","LvnnsBch","Kotzebue","Chukchi","Alaska",66.838115,-162.59806,66.824,-162.570089,1.99,TRUE,2,1,1
+"Sarichef Island West Long","SIWL","Shishmaref","Chukchi","Alaska",66.246587,-166.103854,NA,NA,5.14,TRUE,NA,NA,NA
+"Sarichef Island West","SrchfIsW","Shishmaref","Chukchi","Alaska",66.246587,-166.103854,66.236465,-166.142824,2.1,TRUE,2,1,1
+"Mad River Park N","MadRvrN","Arcata","Humboldt","California",40.927363,-124.134684,40.942462,-124.131402,2,TRUE,2,1,1
+"Murray Road Beach","MrrRdBch","Arcata","Humboldt","California",40.974882,-124.121199,40.956965,-124.12562,2,TRUE,2,1,1
+"Trinidad State Beach","Trndd","McKinleyville","Humboldt","California",41.05687,-124.150552,41.061716,-124.148457,0.8,TRUE,2,1,1
+"Stone Lagoon","StnLgn","Trinidad","Humboldt","California",41.244871,-124.104424,41.259315,-124.099477,1.66,TRUE,2,1,1
+"Battery Point S","BttryS","Crescent City","Humboldt","California",41.743804,-124.197671,41.749754,-124.193254,1.3,TRUE,2,1,1
+"Smith River","SmthRvr","","Humboldt","California",41.957544,-124.207723,41.953792,-124.209663,0.44,TRUE,1,1,1
+"Steamboat Rock ","StmbtRck","Cape Mendocino","Humboldt","California",40.425425,-124.402963,40.417241,-124.398999,1,TRUE,1,1,1
+"South Jetty ","SthJtty","Eureka","Humboldt","California",40.756768,-124.235019,40.748753,-124.240448,1,TRUE,1,1,1
+"Kellogg North","KllggN","Crescent City","Humboldt","California",41.869483,-124.212917,41.8857,-124.20905,1.8,TRUE,2,1,1
+"Samoa Bay St S","SamByStS","Eureka","Humboldt","California",40.799485,-124.20538,40.79144,-124.210717,1,TRUE,2,1,1
+"Mad River South","MdRvrS","Arcata","Humboldt","California",40.92991,-124.13489,40.909051,-124.143516,2.4,TRUE,2,1,1
+"False Klamath Cove","Klamath","Cresecent City","Humboldt","California",41.604324,-124.101689,41.601338,-124.100508,0.35,TRUE,1,1,1
+"Murray Road 0809","Mrry0809","Arcata","Humboldt","California",40.974882,-124.121199,40.956965,-124.12562,2,FALSE,NA,NA,NA
+"Point St. George North","PtStGrgN","Crescent City","Humboldt","California",41.785316,-124.25306,41.779266,-124.253745,1,TRUE,NA,NA,NA
+"Murray Road 1011","Mrry1011","Arcata","Humboldt","California",40.974882,-124.121199,40.963253,-124.122703,1.3,FALSE,NA,NA,NA
+"Centerville Road South","CvRdSBch","Ferndale","Humboldt","California",40.570932,-124.351695,40.57833,-124.347252,0.9,TRUE,1,1,1
+"Enderts","Enderts","Crescent City","Humboldt","California",41.703283,-124.1432,41.699,-124.14175,0.5,TRUE,1,1,1
+"Garth","Garth","Crescent City","Humboldt","California",41.770918,-124.245596,41.766181,-124.23253,1.4,TRUE,1,1,1
+"Samoa Bay St","SmBySt","Samoa","Humboldt","California",40.799485,-124.20538,40.80285,-124.202683,0.4,FALSE,NA,NA,NA
+"Battery Point N","BttryN","Crescent City","Humboldt","California",41.74956,-124.208401,41.743804,-124.197671,1.3,TRUE,2,1,1
+"Crannell Beach","Crnnll","Arcata","Humboldt","California",41.007288,-124.114849,41.028609,-124.112456,2.38,TRUE,2,1,1
+"Murray Road 1112","Mrry1112","Arcata","Humboldt","California",40.974882,-124.121199,40.966756,-124.122082,0.9,FALSE,NA,NA,NA
+"Stamps South","mbpanms","Arcata","Humboldt","California",40.857868,-124.168926,40.849829,-124.173095,1.08,TRUE,2,1,1
+"South Beach","SthBch","Crescent City","Humboldt","California",41.741827,-124.16712,41.744537,-124.179422,0.96,TRUE,1,1,1
+"Murray Road 1213","Mrry1213","Arcata","Humboldt","California",40.974882,-124.121199,40.966877,-124.123372,0.6,FALSE,NA,NA,NA
+"Beachcomber South","BchcmbrS","Crescent City","Humboldt","California",41.741402,-124.166592,41.734541,-124.158904,1,TRUE,1,1,1
+"Samoa Jetty North","SmJttyN","Samoa","Humboldt","California",40.764602,-124.232603,40.769958,-124.225871,0.8,TRUE,2,1,1
+"Kamph Park","KmphPrk","Smith River","Humboldt","California",41.973463,-124.205371,41.960572,-124.206249,1.44,TRUE,2,1,1
+"Murray Road 0910","Mrry0910","Arcata","Humboldt","California",40.974882,-124.121199,40.960398,-124.123751,1.6,FALSE,NA,NA,NA
+"Lanphere Dunes S","LphrDnsS","Arcata","Humboldt","California",40.896894,-124.148613,40.886451,-124.153617,1.1,TRUE,2,1,1
+"Manila CC","MnlCC","Eureka","Humboldt","California",40.849911,-124.173179,40.84225,-124.177872,0.94,TRUE,2,1,1
+"South Spit","SthSpit","Eureka","Humboldt","California",40.697296,-124.277076,40.712603,-124.265645,2,TRUE,2,1,1
+"Ma-le'l Mid","MalelMid","Arcata","Humboldt","California",40.86388,-124.16492,40.8771,-124.1576,1.59,TRUE,2,1,1
+"Eel River North","EelRvrN","Eureka","Humboldt","California",40.678248,-124.289819,40.689169,-124.281964,1,TRUE,2,1,1
+"Big Lagoon","BgLgn","Trinidad","Humboldt","California",41.163937,-124.133026,41.151516,-124.138509,1.45,TRUE,2,1,1
+"Pebble Beach","PbblBch","Crescent City","Humboldt","California",41.757068,-124.222002,41.761183,-124.224567,0.5,TRUE,2,1,1
+"Samoa Cookhouse Beach","SmoaCkhs","Samoa","Humboldt","California",40.82151,-124.190801,40.830003,-124.18535,1,TRUE,2,1,1
+"Clam Beach South","ClmBchS","McKinleyville","Humboldt","California",40.987159,-124.119381,40.975548,-124.120857,1.72,TRUE,2,1,1
+"Caspar Beach","CsprBch","Mendocino","Mendocino","California",39.359966,-123.817998,39.36198,-123.816514,0.3,TRUE,2,1,1
+"Ma-le'l South","MalelS","Arcata","Humboldt","California",40.86387,-124.16492,40.8584,-124.1684,0.42,TRUE,2,1,1
+"North Pebble Beach","NPebble","Crescent City","Humboldt","California",41.766181,-124.23253,41.762201,-124.226179,0.69,TRUE,2,1,1
+"Stone Lagoon North","StnLgnN","","Humboldt","California",41.258916,-124.099546,41.2642,-124.098612,0.59,TRUE,2,1,1
+"Trinidad Lighthouse S","TrndLtS","Trinidad","Humboldt","California",41.055772,-124.137269,41.056007,-124.148631,0.68,TRUE,2,1,1
+"Dry Lagoon Beach","DrLgnBch","","Humboldt","California",41.233631,-124.106585,41.21825,-124.11125,1.49,TRUE,2,1,1
+"Murray Road 1314","Mrry1314","Arcata","Humboldt","California",40.974882,-124.121199,40.972275,-124.121859,0.3,FALSE,NA,NA,NA
+"Ma-le'l North","MalelN","Arcata","Humboldt","California",40.8771,-124.1576,40.88631,-124.15303,1.09,TRUE,2,1,1
+"Lanphere Dunes N","LphrDnsN","Arcata","Humboldt","California",40.896894,-124.148613,40.90791667,-124.144057,1.1,TRUE,2,1,1
+"Samoa Bay St N","SamBySt","Samoa","Humboldt","California",40.799485,-124.20538,40.805995,-124.201065,0.8,TRUE,2,1,1
+"Clam Beach North","ClmBchN","Mckinleyville","Humboldt","California",40.987926,-124.119901,41.007204,-124.114717,2.19,TRUE,2,1,1
+"Table Bluff","TblBlff","Eureka","Humboldt","California",40.697296,-124.277076,40.689311,-124.283309,1.1,TRUE,2,1,1
+"Moonstone","MnStn","McKinleyville","Humboldt","California",41.031522,-124.113731,41.028661,-124.111086,0.4,TRUE,2,1,1
+"Elk Beach ","ElkBch","Elk","Mendocino","California",39.12445,-123.717791,39.129061,-123.71866,0.56,TRUE,2,1,1
+"Virgin Creek North","VrgnCrkN","Fort Bragg","Mendocino","California",39.474915,-123.804279,39.479509,-123.803077,0.5,TRUE,2,1,1
+"Van Damme State Park","VnDmStPk","Little River","Mendocino","California",39.272377,-123.790721,39.273949,-123.795299,0.3,TRUE,2,1,1
+"Virgin Creek Beach","VnCrkBch","Fort Bragg","Mendocino","California",39.471719,-123.804773,39.474392,-123.804415,0.64,TRUE,2,1,1
+"Seaside North","SsdBchN","Fort Bragg","Mendocino","California",39.554566,-123.766706,39.559567,-123.766628,0.57,TRUE,2,1,1
+"Jug Handle Beach ","JgHndl","Caspar","Mendocino","California",39.375757,-123.821052,39.377328,-123.818538,0.23,TRUE,2,1,1
+"Navarro Beach","Nvrro","Albion","Mendocino","California",39.190105,-123.759154,39.187223,-123.757357,0.36,TRUE,2,1,1
+"Big River","BgRvr","Mendocino","Mendocino","California",39.303008,-123.79691,39.302485,-123.792347,0.45,TRUE,2,1,1
+"Ward","Ward","Fort Bragg","Mendocino","California",39.502458,-123.787753,39.492052,-123.794724,0.81,TRUE,2,1,1
+"Westport","WstPrt","","Mendocino","California",39.65993,-123.785789,39.651879,-123.783651,0.95077,TRUE,2,1,1
+"Hare Creek Beach ","HrCrkBch","Fort Bragg","Mendocino","California",39.418289,-123.812533,39.416804,-123.81256,0.18,TRUE,2,1,1
+"Pudding Creek Beach ","PddngCrk","Fort Bragg","Mendocino","California",39.458948,-123.809368,39.460843,-123.809086,0.21,TRUE,2,1,1
+"Kehena Beach","KhenaBch","Pahoa","Hawaii","Hawaii",NA,NA,NA,NA,0.1,TRUE,NA,NA,NA
+"Agate Beach","AgateBch","Newport","Oregon North","Oregon",44.6592,-124.05728,44.674101,-124.065034,1.75,TRUE,2,1,1
+"Haystack Rock South","HayskRkS","Cannon Beach","Oregon North","Oregon",45.872663,-123.961918,45.886541,-123.96418,1.6,FALSE,NA,NA,NA
+"Neahkanie N OWSP","NeahknN","Manzanita","Oregon North","Oregon",45.728497,-123.944279,45.742637,-123.958798,1.8,TRUE,2,1,1
+"Gov. Patterson SP","GovPtrsn","Waldport","Oregon North","Oregon",44.413963,-124.084682,44.405506,-124.086075,0.9,TRUE,2,1,1
+"Bayshore Beach","ByshrBch","Waldport","Oregon North","Oregon",44.439748,-124.082734,44.423734,-124.078471,1.6,TRUE,2,1,1
+"Driftwood","Drftwd","Waldport","Oregon North","Oregon",44.46203,-124.082058,44.453387,-124.082559,1,TRUE,1,1,1
+"Moolack South","MlckSth","Newport","Oregon North","Oregon",44.703793,-124.061669,44.690732,-124.066014,1.5,TRUE,2,1,1
+"Nehalem Bay SP","NehlmBy","Manzanita","Oregon North","Oregon",45.657824,-123.940955,45.688611,-123.939613,1.7,TRUE,2,1,1
+"Delake","Delake","Delake","Oregon North","Oregon",44.959648,-124.020873,44.975431,-124.016981,1.8,TRUE,2,1,1
+"Nehalem Bay SP North","NhmBySPN","Manzanita","Oregon North","Oregon",45.688619,-123.939693,45.703567,-123.940683,1.6,TRUE,2,1,1
+"Stonefield Beach ","Stnfld","Yachats ","Oregon North","Oregon",44.226161,-124.112628,44.237803,-124.111994,1.3,TRUE,1,1,1
+"OR Mile 214","ORMI214","Newport","Oregon North","Oregon",NA,NA,NA,NA,1.6,FALSE,NA,NA,NA
+"Moore Creek South","MrCrkS","Holiday Beach","Oregon North","Oregon",44.5657,-124.07059,44.57239,-124.06985,0.75,TRUE,1,2,1
+"Tolovana Beach State Park","TlvnSP","Cannon Beach","Oregon North","Oregon",45.872663,-123.961918,45.862876,-123.962314,1.1,TRUE,1,2,2
+"OR Mile 254","ORMI254","Neskowin","Oregon North","Oregon",45.106305,-123.985192,45.125047,-123.979637,1.6,TRUE,2,2,1
+"Seal Rock","SealRck","Seal Rock","Oregon North","Oregon",44.507624,-124.081726,44.496893,-124.084471,1.22,TRUE,2,2,2
+"Lost Creek Beach","LstCrk","Newport","Oregon North","Oregon",44.54332,-124.073856,44.523047,-124.071674,2.5,TRUE,1,1,1
+"Salmon River","SlmnRvr","Neskowin","Oregon North","Oregon",45.034788,-124.007895,45.047243,-124.005717,2,TRUE,1,1,1
+"Cliff Beach","ClffBch","South Beach","Oregon North","Oregon",44.56573,-124.07098,44.559051,-124.072106,0.75,TRUE,1,1,1
+"Devil's Punchbowl N","DvlsPchN","Newport","Oregon North","Oregon",44.751356,-124.064716,44.748549,-124.064198,0.41,TRUE,2,1,1
+"OR Mile 287","ORMI287","Cape Meares","Oregon North","Oregon",45.540377,-123.951396,45.525612,-123.953579,1.64,TRUE,2,2,1
+"Yaquina Head","YqnaHd","Newport","Oregon North","Oregon",44.675428,-124.077501,44.674101,-124.076371,0.2,TRUE,2,1,1
+"OR Mile 313 S","ORMI313S","Cannon Beach","Oregon North","Oregon",45.872663,-123.961918,45.87976,-123.963346,0.78,TRUE,2,1,1
+"Taft Beach","TftBch","Lincoln City ","Oregon North","Oregon",44.928538,-124.025539,44.945268,-124.023823,1.9,TRUE,1,1,1
+"OR Mile 243","ORMI243","Lincoln City","Oregon North","Oregon",44.975498,-124.016986,44.990273,-124.013604,1.6,TRUE,2,1,1
+"DeLaura Rd N","DLrRdN","Warrenton","Oregon North","Oregon",46.1499,-123.9651,46.14013,-123.95991,1.15873,TRUE,2,1,1
+"OR Mile 315","ORMI315","Cannon Beach","Oregon North","Oregon",45.89834,-123.96427,45.91644,-123.97243,2.14,TRUE,2,1,1
+"OR Mile 286","ORMI286","Tillamook","Oregon North","Oregon",45.5227,-123.954789,45.508066,-123.957864,1.6,TRUE,2,1,1
+"Fishing Rock North","FshngRkN","Lincoln Beach","Oregon North","Oregon",44.859783,-124.044178,44.845736,-124.051095,1.67,TRUE,1,2,2
+"Oceanside","Ocnsde","Tillamook","Oregon North","Oregon",45.461983,-123.972,45.449769,-123.965185,1,TRUE,2,1,1
+"Gearhart Beach","Gearhart","Gearhart","Oregon North","Oregon",46.030944,-123.930775,46.019071,-123.930597,1.6,TRUE,2,2,2
+"Washburn North","WshbrnN","Florence","Oregon North","Oregon",44.160723,-124.118159,44.168279,-124.117286,0.84,TRUE,1,1,1
+"Salishan Spit South","SalSptS","Lincoln City ","Oregon North","Oregon",44.893803,-124.033963,44.903945,-124.031396,1.15,TRUE,2,1,1
+"Happy Camp Rd North","HppyCmp","Tillamook","Oregon North","Oregon",45.439983,-123.955521,45.446129,-123.963596,1,TRUE,2,1,1
+"Manzanita Beach","MnztBch","Manzanita","Oregon North","Oregon",45.712717,-123.940783,45.703617,-123.940167,1,TRUE,2,1,1
+"Tierra Del Mar N","TrrDMar","Pacific City","Oregon North","Oregon",45.254907,-123.967069,45.273766,-123.963958,2.1,TRUE,2,1,1
+"Nedonna","Ndnna","","Oregon North","Oregon",45.654919,-123.941727,45.636946,-123.943172,2,TRUE,1,1,1
+"Bob Creek","BobCrk","Yachats","Oregon North","Oregon",44.244572,-124.112975,44.239635,-124.112006,0.56,TRUE,1,1,1
+"Sunset Road North","SnstRdN","Warrenton","Oregon North","Oregon",46.098642,-123.942359,46.1081,-123.945971,1.1,TRUE,2,2,2
+"Seal Rock South","SealRckS","Seal Rock","Oregon North","Oregon",44.496031,-124.085014,44.485828,-124.085436,1.17,TRUE,2,2,2
+"Peter Iredale N","PtrIdl","Warrenton","Oregon North","Oregon",46.178011,-123.979976,46.197321,-123.992371,2.4,TRUE,NA,NA,NA
+"Beverly Beach Campground North","BvBchCgN","Newport","Oregon North","Oregon",44.737733,-124.056764,44.729682,-124.058603,0.91,TRUE,2,2,2
+"Devil's Punchbowl South","DvlsPchS","Newport","Oregon North","Oregon",44.74661,-124.063544,44.737733,-124.056764,1.11,TRUE,2,1,2
+"OR Mile 327","ORMI327","Gearhart","Oregon North","Oregon",46.043644,-123.930695,46.058127,-123.932539,1.6,TRUE,2,2,2
+"OR Mile 300","ORMI300","Manzanita","Oregon North","Oregon",45.728605,-123.943982,45.718374,-123.941655,1.6,TRUE,1,1,1
+"Roads End South","RdsEndS","Lincoln City","Oregon North","Oregon",44.998049,-124.012037,45.008693,-124.009724,1.2,TRUE,2,1,1
+"Cape Kiwanda","CpKwnd","Pacific City","Oregon North","Oregon",45.215828,-123.971873,45.202417,-123.968488,1.5,TRUE,1,1,1
+"Washburn South","WshbrnS","Florence","Oregon North","Oregon",44.160726,-124.118518,44.149605,-124.121567,1.26,TRUE,1,1,1
+"Sunset Road South","SnstRdS","Sunset Beach","Oregon North","Oregon",46.09858,-123.9428,46.08887,-123.93991,1.11,TRUE,2,2,2
+"Cape Lookout","Cplkout","Netarts","Oregon North","Oregon",45.358185,-123.972647,45.36888,-123.969927,1.2,TRUE,2,1,1
+"Bob Straub State Prk","BbStrbSP","Pacific City","Oregon North","Oregon",45.19262,-123.96859,45.181821,-123.969944,1.6,TRUE,1,2,2
+"South Beach State Park","SthBchSP","Newport","Oregon North","Oregon",44.59879,-124.067391,44.611592,-124.072026,1.09,TRUE,1,2,1
+"Nye South","NyeS","Newport","Oregon North","Oregon",44.63578,-124.065094,44.618095,-124.067412,1.9,TRUE,2,1,2
+"Grant Creek","GrntCrk","Newport","Oregon North","Oregon",44.580269,-124.068935,44.572513,-124.069596,0.91,TRUE,2,2,2
+"Nye North","NyeN","Newport","Oregon North","Oregon",44.644762,-124.06249,44.636578,-124.065094,0.95,TRUE,2,1,1
+"McPhillips Beach","McPhllps","","Oregon North","Oregon",45.233704,-123.971105,45.223071,-123.973112,1.2,TRUE,2,1,1
+"Seaside Beach","SsdBch","Seaside","Oregon North","Oregon",46.001498,-123.928799,45.976337,-123.937952,2.88,TRUE,2,1,2
+"OR Mile 313 N","ORMI313N","Cannon Beach","Oregon North","Oregon",45.886541,-123.96418,45.87976,-123.963346,0.78,TRUE,2,2,2
+"OR Mile 309 (Arch Cape)","ORMI309","Cannon Beach","Oregon North","Oregon",45.803097,-123.967239,45.823396,-123.962597,1.6,TRUE,2,1,1
+"OR Mile 255","ORMI255","Neskowin","Oregon North","Oregon",45.125047,-123.979637,45.141237,-123.976113,1.6,TRUE,2,1,1
+"Short Beach","ShrtBch","Tillamook","Oregon North","Oregon",45.472611,-123.969905,45.478656,-123.969659,0.7,TRUE,2,2,2
+"Short Sands OWSP","ShrtSnds","Manzanita","Oregon North","Oregon",45.757757,-123.964569,45.763824,-123.970055,1,TRUE,2,1,1
+"OR Mile 196","ORMI196","Yachats","Oregon North","Oregon",44.338175,-124.099058,44.350019,-124.096657,1.6,TRUE,2,2,2
+"Fort Stevens State Park North","FtStnSPN","Hammond","Oregon North","Oregon",46.21449,-124.00406,46.20418,-123.99673,1.33,TRUE,2,2,2
+"Devil's Punchbowl","DvlsPch","Newport","Oregon North","Oregon",44.74661,-124.063544,44.729682,-124.058603,2.4,FALSE,NA,NA,NA
+"Muriel Ponsler","MrlPnslr","Florence","Oregon North","Oregon",44.168239,-124.117375,44.175666,-124.116679,0.8,TRUE,2,1,1
+"Bob Straub South","BbStrbS","Pacific City ","Oregon North","Oregon",45.18171,-123.969816,45.172472,-123.970485,1,TRUE,2,2,2
+"Surfland Beach","Srflnd","Newport","Oregon North","Oregon",44.580665,-124.068848,44.589407,-124.068204,0.97,TRUE,2,2,2
+"Roads End","RoadsEnd","Lincoln City","Oregon North","Oregon",45.008757,-124.00952,45.020966,-124.009017,1,TRUE,1,2,1
+"Salishan Spit","SlshnSpt","Cutler City","Oregon North","Oregon",44.91969,-124.02807,44.92632,-124.022584,1,TRUE,1,2,2
+"Schooner South","SchnrSth","Newport","Oregon North","Oregon",44.687599,-124.067138,44.67721,-124.07452,1.4,TRUE,2,2,2
+"Nye Beach","NyeBch","Newport","Oregon North","Oregon",44.636294,-124.065321,44.617499,-124.067779,2.3,FALSE,NA,NA,NA
+"Delaura Rd S","DLrRdS","Warrenton","Oregon North","Oregon",46.140119,-123.96005,46.129198,-123.955429,1.3,TRUE,2,1,1
+"Ocean Beach","OcnBch","Florence","Oregon North","Oregon",44.186377,-124.116076,44.199482,-124.114912,1.5,TRUE,2,1,1
+"OR Mile 285","ormi285","Cape Meares","Oregon North","Oregon",45.49421,-123.9657,45.507081,-123.958049,1.61,TRUE,2,1,1
+"Coronado Shores","CrndShrs","Lincoln City","Oregon North","Oregon",44.863867,-124.04287,44.873214,-124.039823,1,TRUE,1,1,1
+"OR Mile 241","ORMI241","Lincoln City","Oregon North","Oregon",44.945268,-124.023823,44.959722,-124.020943,1.6,TRUE,1,1,1
+"Arcadia Beach","ArcdBch","Cannon Beach","Oregon North","Oregon",45.847717,-123.9617,45.838483,-123.961133,0.8,TRUE,2,2,2
+"Barview Jetty","BrvwJtty","Rockaway Beach","Oregon North","Oregon",45.57126,-123.95668,45.57883,-123.95393,0.9,TRUE,1,1,1
+"Fort Stevens State Park","FtStvns","Warrenton","Oregon North","Oregon",46.17665,-123.97929,46.18675,-123.98556,1.2,TRUE,1,1,1
+"Agate Beach South","AgtBchS","Newport","Oregon North","Oregon",44.65917,-124.05728,44.64476,-124.06249,1.66,TRUE,1,2,2
+"Rock Creek","RckCrk","Florence","Oregon North","Oregon",44.183032,-124.116275,44.17672,-124.116537,0.7,TRUE,1,1,1
+"North Bob Straub","NBbStrb ","Pacific City","Oregon North","Oregon",45.192665,-123.96866,45.202309,-123.968949,1.1,TRUE,2,1,1
+"OR Mile 266","ORMI266","Netarts","Oregon North","Oregon",45.280464,-123.962772,45.289929,-123.963367,1,TRUE,1,1,1
+"Beachside State Park","BchSdSP","Waldport","Oregon North","Oregon",44.383358,-124.090366,44.371388,-124.091978,1.3,TRUE,2,2,2
+"Seaside Beach North","SsdBcNth","Seaside","Oregon North","Oregon",46.001567,-123.93001,46.009853,-123.925519,0.64,TRUE,1,1,1
+"OR Mile 166","ORMI166","Florence","Oregon South","Oregon",43.959963,-124.142667,43.946936,-124.145021,1.46,TRUE,NA,NA,NA
+"Euchre Creek","EuchrCrk","Gold Beach","Oregon South","Oregon",42.55371,-124.394713,42.545443,-124.397239,1,TRUE,1,1,1
+"Sacchi Beach","Sacchi","Charleston","Oregon South","Oregon",43.271296,-124.381991,43.259525,-124.386727,1.38,TRUE,1,1,1
+"Coos Spit","CsSpt","Coos Bay","Oregon South","Oregon",43.3572,-124.33854,43.36876,-124.32877,1.5,TRUE,2,1,1
+"OR Mile 102 N","ORMI102N","Bandon","Oregon South","Oregon",43.124237,-124.425972,43.134111,-124.420908,1.2,TRUE,2,1,1
+"Bullards Beach South","BllrdSth","Bandon","Oregon South","Oregon",43.136256,-124.420101,43.144997,-124.417029,1,TRUE,2,1,1
+"Sunset Bay","SnstBy","Charleston","Oregon South","Oregon",43.331768,-124.374539,43.33535,-124.372372,0.46,TRUE,2,1,1
+"Harris Beach","HrrsBch","Brookings, OR","Oregon South","Oregon",42.066597,-124.313115,42.070162,-124.31762,0.6,TRUE,2,1,1
+"Whaleshead","Whlshd","Brookings","Oregon South","Oregon",42.143174,-124.356255,42.134646,-124.352265,1.1,TRUE,2,1,1
+"OR Mile 168","ormi168","Florence","Oregon South","Oregon",43.975476,-124.140651,43.986924,-124.138866,1.7,TRUE,2,1,1
+"Crissey Field","CrssyFld","Brookings","Oregon South","Oregon",42.003862,-124.214566,41.990668,-124.209243,1.6,TRUE,1,1,1
+"Cut Creek South","CtCrkSth","Bandon","Oregon South","Oregon",43.18416,-124.40238,43.17544,-124.40575,0.87387,TRUE,2,NA,NA
+"Seven Devils Wayside","SvnDvls","Bandon","Oregon South","Oregon",43.219332,-124.397847,43.236549,-124.391508,2,TRUE,2,1,1
+"Whiskey Run N","WhskyRnN","Bandon","Oregon South","Oregon",43.210744,-124.395069,43.219491,-124.397584,1,TRUE,2,1,1
+"OR Mile 175","ormi175","Florence","Oregon South","Oregon",44.067849,-124.12797,44.089939,-124.124963,1.7,TRUE,1,1,1
+"Salmon Harbor Drive","SlnHbrD","Reedsport","Oregon South","Oregon",43.648436,-124.209841,43.632969,-124.212738,1.8,TRUE,1,1,1
+"Salmon Harbor South","SlnHrbrS","Reedsport","Oregon South","Oregon",43.63296,-124.21275,43.60749,-124.21863,2.3,TRUE,1,1,1
+"OR Mile 121 (Lighthouse Beach)","ORMI121","Charleston","Oregon South","Oregon",43.33916,-124.37329,43.341734,-124.361144,1,TRUE,2,1,1
+"OR Mile 102 S","ORMI102S","Bandon","Oregon South","Oregon",43.122449,-124.429313,43.11684,-124.434994,0.8,TRUE,2,1,1
+"Pistol River State Park","PstlRvSP","","Oregon South","Oregon",42.277248,-124.40752,42.254628,-124.410489,2.5,TRUE,2,1,1
+"Seven Devils North","SvnDvlsN","Bandon","Oregon South","Oregon",43.23609,-124.39158,43.25782,-124.386976,2.4,TRUE,2,1,1
+"OR Mile 99","ORMI99","Bandon","Oregon South","Oregon",43.090019,-124.434501,43.082826,-124.435255,1,TRUE,2,1,1
+"OR Mile 96","ORMI96","Bandon","Oregon South","Oregon",43.041168,-124.443512,43.0556,-124.440477,1.2,FALSE,NA,NA,NA
+"OR Mile 101","ORMI101","Bandon ","Oregon South","Oregon",43.113768,-124.436928,43.105363,-124.435278,1.09,TRUE,2,1,1
+"Wayside Park","WysdPrk","Port Orford","Oregon South","Oregon",42.742178,-124.492366,42.737769,-124.482521,0.9,TRUE,2,1,1
+"Whiskey Run S","WhskyRnS","Bandon","Oregon South","Oregon",43.210775,-124.395026,43.202124,-124.397192,1,TRUE,2,1,1
+"Cut Creek North","CtCrkNrt","Bandon","Oregon South","Oregon",43.19194,-124.3994,43.1841667,-124.4022222,0.8,TRUE,2,1,1
+"Bastendorff South","BstndrfS","Charleston","Oregon South","Oregon",43.344398,-124.349142,43.341731,-124.359163,0.93,TRUE,2,1,1
+"Turtle Rock South","TrtlRckS","Gold Beach","Oregon South","Oregon",42.385714,-124.424393,42.368895,-124.424735,1.9,TRUE,2,1,1
+"Hubbard Creek","HbbrdCrk","Port Orford","Oregon South","Oregon",42.735967,-124.47735,42.729117,-124.470367,0.95,TRUE,2,1,1
+"Cape Blanco North","CpBlncN","Port Orford","Oregon South","Oregon",42.837612,-124.560189,42.840181,-124.552726,0.69,TRUE,1,1,1
+"Lone Ranch Beach","LnRnch","Brookings","Oregon South","Oregon",42.10062,-124.345693,42.093171,-124.341354,1,TRUE,2,1,1
+"Harbor Vista","HrbrVsta","Florence","Oregon South","Oregon",44.018893,-124.140481,44.036109,-124.134087,2.1,TRUE,1,1,1
+"Bullards Beach North","Bllrds","Bandon","Oregon South","Oregon",43.146418,-124.416341,43.155159,-124.413064,1,TRUE,2,1,1
+"Whiskey Run Beach","WhskyRn","Bandon","Oregon South","Oregon",43.20207,-124.397299,43.21952,-124.397769,2,FALSE,NA,NA,NA
+"OR Mile 23","ormi23","Pistol River","Oregon South","Oregon",42.306376,-124.411015,42.298327,-124.41024,1,TRUE,1,1,1
+"Chetco Beach South","ChtcBchS","Brookings","Oregon South","Oregon",42.044723,-124.270044,42.041259,-124.26435,1.25,TRUE,2,1,1
+"Tenmile Beach","Tnmle","Coos Bay","Oregon South","Oregon",43.559036,-124.23364,43.535397,-124.242286,1.6,TRUE,1,1,1
+"Floras","Flrs","Langlois","Oregon South","Oregon",42.905403,-124.507437,42.89852,-124.512077,0.8,FALSE,NA,NA,NA
+"China Creek","ChnCr","Bandon","Oregon South","Oregon",43.074474,-124.436946,43.08202,-124.436273,0.8,TRUE,2,1,1
+"OR Mile 100","ORMI100","Bandon","Oregon South","Oregon",43.105199,-124.435594,43.09099,-124.43329,1.6,TRUE,2,1,1
+"Bastendorff","Bstndrff","Coos Bay","Oregon South","Oregon",43.345004,-124.349039,43.350206,-124.340137,1.2,TRUE,1,1,1
+"Floras Lake Beach","FlrsLBch","","Oregon South","Oregon",42.902569,-124.50925,NA,NA,0.38801,TRUE,2,NA,NA
+"Bandon Dunes Beach","BndnDnsB","Bandon","Oregon South","Oregon",43.2009722,-124.3971111,43.1919444,-124.3994444,1.02,TRUE,2,1,1
+"Otter Point","OttrPnt","Gold Beach","Oregon South","Oregon",42.45243,-124.427036,42.461856,-124.423243,1.75,TRUE,2,1,1
+"Dog Beach","DgBch","Port Orford","Oregon South","Oregon",42.74026,-124.49908,42.74159,-124.49514,0.36,TRUE,2,1,1
+"Ziolkouski Beach Park","ZBchPrk","Winchester Bay","Oregon South","Oregon",43.66012,-124.20985,43.64861,-124.21045,1.28,TRUE,NA,NA,NA
+"Cape Sebastian","CpSbstn","Gold Beach","Oregon South","Oregon",42.307375,-124.410975,42.321611,-124.425698,2.15,TRUE,2,1,1
+"Horsfall South","HrsfllS","Coos Bay","Oregon South","Oregon",43.453626,-124.277683,43.439798,-124.284965,1.65,TRUE,1,1,1
+"Humbug Mtn State Park","HmbgMtSP","Port Orford","Oregon South","Oregon",42.684319,-124.447599,42.692868,-124.453502,1.1,TRUE,2,1,1
+"Sand Point South","SndPntS","Sekiu","North Coast","Washington",48.125754,-124.711473,48.109725,-124.692061,1.3,TRUE,1,1,1
+"Boone Creek","BnCrk","Pacific Beach","North Coast","Washington",47.169313,-124.195243,47.161386,-124.192402,0.9,TRUE,2,1,1
+"Goodman Creek","GdmanCrk","Forks","North Coast","Washington",47.823553,-124.510676,47.819342,-124.496589,1.3,TRUE,2,1,1
+"Point Grenville","PntGrnvl","Moclips","North Coast","Washington",47.301693,-124.254017,47.30388,-124.278368,2,TRUE,2,2,2
+"Third Beach","thrdBch","La Push","North Coast","Washington",47.874038,-124.578325,47.87795,-124.59809,1.6,TRUE,2,1,1
+"Ruby North","RbyNth","Forks","North Coast","Washington",47.714927,-124.418693,47.712002,-124.416492,0.37,TRUE,2,1,1
+"Kalaloch North","KllchNth","Forks","North Coast","Washington",47.61749,-124.377738,47.60713,-124.375388,1.1,TRUE,2,1,1
+"Hoh River","HohRvr","Forks","North Coast","Washington",47.750043,-124.434778,47.753751,-124.441727,0.7,TRUE,1,1,1
+"Ruby Caves South","SRbyS","Forks","North Coast","Washington",47.691452,-124.411458,47.704549,-124.415315,1.5,TRUE,1,1,1
+"Roosevelt South","RsvltSth","Pacific Beach","North Coast","Washington",47.175248,-124.196403,47.169313,-124.195243,0.9,TRUE,2,1,1
+"Beach 2","BchTwo","Forks","North Coast","Washington",47.592439,-124.368717,47.577909,-124.36467,1.5,TRUE,1,1,1
+"Haskin Beach","HsknBch","Pacific Beach","North Coast","Washington",47.203385,-124.202295,47.194345,-124.201383,1,TRUE,NA,NA,NA
+"Sanctuary Beach","Snctry","Kalaloch","North Coast","Washington",47.650049,-124.388923,47.664974,-124.395632,1.8,TRUE,1,1,1
+"Hoh South","hohs","Forks","North Coast","Washington",47.734189,-124.422941,47.749669,-124.435196,2,TRUE,1,1,1
+"Beach 1","BchOne","Forks","North Coast","Washington",47.583309,-124.365982,47.565364,-124.361892,1.4,TRUE,1,1,1
+"Shi Shi Beach","ShShBch","Neah Bay","North Coast","Washington",48.278563,-124.681058,48.247155,-124.69993,4,TRUE,2,1,1
+"Steamboat Creek N","StmbtCrN","Kalaloch","North Coast","Washington",47.679361,-124.404485,47.691092,-124.411234,1.4,TRUE,1,1,1
+"Raft River","RftRvr","Taholah","North Coast","Washington",47.462326,-124.342195,47.451411,-124.339402,1.3,TRUE,2,2,2
+"First Beach","1stBch","La Push","North Coast","Washington",47.905734,-124.643559,47.8977,-124.62906,1.6,FALSE,NA,NA,NA
+"South Beach Spit","SthBchSt","Forks","North Coast","Washington",47.56615,-124.36172,NA,NA,1,TRUE,2,1,1
+"Rialto Jetty","RltJtty","La Push","North Coast","Washington",47.920407,-124.638882,47.909258,-124.642994,1.1,TRUE,2,2,2
+"Duk Point","DukPt","Neah Bay","North Coast","Washington",48.209083,-124.692778,48.188361,-124.701361,1.48,FALSE,2,1,1
+"Roosevelt Beach","RsvltBch","Pacific Beach","North Coast","Washington",47.175248,-124.196403,47.161386,-124.192402,1.8,FALSE,NA,NA,NA
+"Ellen Creek","EllnCrek","","North Coast","Washington",47.920452,-124.639031,47.9322,-124.642853,1.4,TRUE,2,1,1
+"Pacific Beach","PacBch","Pacific Beach","North Coast","Washington",47.219269,-124.209744,47.206483,-124.203167,1.4,TRUE,2,1,1
+"Ruby South","RbySth","Forks","North Coast","Washington",47.704593,-124.415087,47.712002,-124.416492,0.85,TRUE,1,1,1
+"Hole in the Wall","HlnThWll","La Push","North Coast","Washington",47.932187,-124.642987,47.942037,-124.650645,1.2,TRUE,2,1,1
+"Wedding Rocks South","WddgRckS","Ozette","North Coast","Washington",48.148608,-124.719186,48.134752,-124.710036,1.7,TRUE,1,1,1
+"Sooes Beach","SooesBch","Neah Bay","North Coast","Washington",48.31874,-124.667062,48.311182,-124.662036,2.9,FALSE,NA,NA,NA
+"Copalis13","Cpls13","Copalis","North Coast","Washington",47.138737,-124.185287,47.145853,-124.188967,1.6,TRUE,1,1,1
+"Wedding Rocks","WdngRcks","Sekiu","North Coast","Washington",48.160679,-124.731892,48.14954,-124.720089,1.7,TRUE,1,1,1
+"Second Beach","ScndBch","La Push","North Coast","Washington",47.891965,-124.628721,47.8783,-124.608205,2.4,TRUE,2,1,1
+"Tsoo-Yess South","TsYssS","Neah Bay","North Coast","Washington",48.295611,-124.670497,48.311182,-124.662036,1.9,TRUE,2,1,1
+"Kalaloch South","KllchS","Forks","North Coast","Washington",47.605538,-124.374279,47.592439,-124.368717,1.6,TRUE,1,1,1
+"Copalis Rocks","CplsRcks","Copalis Beach","North Coast","Washington",47.138737,-124.185287,47.161102,-124.193819,2.4,FALSE,2,1,1
+"Hobuck Beach","HobckBch","Neah Bay","North Coast","Washington",48.342887,-124.676046,48.328678,-124.660305,2,TRUE,2,1,1
+"Toleak Beach","Tlk Bch","Oil City","North Coast","Washington",47.8613,-124.55832,47.85129,-124.55279,1.35,TRUE,2,1,1
+"Olympic Beach ","OlympBch","Kalaloch","North Coast","Washington",47.617656,-124.377836,47.635384,-124.385009,2,FALSE,NA,NA,NA
+"Moclips Beach","MclpsBch","Moclips","North Coast","Washington",47.228284,-124.213332,47.218661,-124.209519,1.1,TRUE,1,1,1
+"Sand Point North","SndPnt2","Sekiu","North Coast","Washington",48.125754,-124.711473,48.134752,-124.710036,1.2,TRUE,1,1,1
+"Tsoo-Yess North","TsYssN","Neah Bay","North Coast","Washington",48.311182,-124.662036,48.324445,-124.658019,1.96,TRUE,2,1,1
+"Haskin North","HsknNrth","Pacific Beach","North Coast","Washington",47.203195,-124.203484,47.195891,-124.203023,0.8,TRUE,1,1,1
+"Starbuch Mine","CdrCreek","","North Coast","Washington",48.020988,-124.682075,48.013688,-124.678222,0.9,FALSE,NA,NA,NA
+"Beach 3","BchThr","Kalaloch","North Coast","Washington",47.650278,-124.388889,47.640833,-124.386667,1.1,TRUE,2,1,1
+"Norwegian Memorial","NrwgnMem","La Push","North Coast","Washington",48.036605,-124.681915,48.02272,-124.681013,1.9,TRUE,2,1,1
+"Haskin South","HsknSth","Pacific Beach","North Coast","Washington",47.195772,-124.202737,47.189539,-124.20115,0.7,TRUE,2,1,1
+"Whale Creek","WhleCrk","Taholah","North Coast","Washington",47.480684,-124.343469,47.480956,-124.343458,3.1,TRUE,1,1,1
+"Roosevelt North","RtNthBch","Elma","North Coast","Washington",47.175452,-124.196949,47.185788,-124.199202,1.2,TRUE,1,1,1
+"Wa-atch","Waatch","Neah Bay","North Coast","Washington",48.34392,-124.676307,48.337558,-124.682523,0.9,TRUE,2,1,1
+"Ozette","Ozette","Sekiu","North Coast","Washington",48.187615,-124.702128,48.181253,-124.708402,2.1,TRUE,1,1,1
+"Abbey Island","abbyisl","Forks","North Coast","Washington",47.712043,-124.416473,47.730401,-124.421287,2.1,TRUE,2,1,1
+"Mosquito Creek","MsqtCrk","La Push","North Coast","Washington",47.819342,-124.496589,47.798972,-124.481556,2.7,TRUE,2,1,1
+"Steamboat Creek S","StmbtCrS","Kalaloch","North Coast","Washington",47.664974,-124.395632,47.679361,-124.404485,1.8,TRUE,1,1,1
+"Seabeck North","SbckN","Seabeck","Puget Sound","Washington",47.641161,-122.828455,47.642216,-122.824516,0.33,TRUE,1,1,1
+"McCleod Beach","McCldBch","Vashon","Puget Sound","Washington",47.503328,-122.477084,47.500468,-122.477232,0.4,TRUE,2,1,1
+"Little Skookum","LttlSkm","Shelton","Puget Sound","Washington",47.1474,-123.06,47.1361,-123.085,2,FALSE,NA,NA,NA
+"Anacortes Kiwanis Beach","Kiwanis","Anacortes","Puget Sound","Washington",48.517225,-122.62679,48.518776,-122.623574,0.3,TRUE,2,2,2
+"Illahee","Illahee","Illahee","Puget Sound","Washington",47.612634,-122.595972,47.599614,-122.595548,1.6,TRUE,1,2,2
+"Squally Beach","SqllyBch","Tacoma","Puget Sound","Washington",47.28079,-122.39113,47.281186,-122.397559,0.5,TRUE,1,1,1
+"Salsbury County Park","SlsbryCP","Port Gamble","Puget Sound","Washington",47.856845,-122.607527,47.85599,-122.608888,0.14,TRUE,2,1,1
+"Pratt Bluff","PrttBlff","Greenbank","Puget Sound","Washington",48.117986,-122.558406,48.104676,-122.571519,2,TRUE,1,2,1
+"March Point","MrchPt","Anacortes","Puget Sound","Washington",48.4983667,-122.5568667,48.4913167,-122.5529,1.7,TRUE,2,2,2
+"Elger Bay","ElgerBay","Camano Island","Puget Sound","Washington",48.120948,-122.490142,48.127865,-122.480003,1.3,TRUE,1,1,1
+"North Lagoon Beach","NoLgnBch","Freeland","Puget Sound","Washington",48.0827,-122.610517,48.107733,-122.598783,2.9,TRUE,2,2,2
+"Rendsland Creek","Rndslnd","Tahuya","Puget Sound","Washington",47.385902,-123.113947,47.386796,-123.113025,0.13,TRUE,1,1,1
+"Cama Beach","Cama","Camano Island","Puget Sound","Washington",48.151261,-122.516007,48.138534,-122.51328,1.6,TRUE,1,1,1
+"Fort Casey","FrtCsy","Keystone","Puget Sound","Washington",48.162364,-122.682895,48.154343,-122.677722,1.02,TRUE,2,1,1
+"Cascade View","CscdVw","Camano","Puget Sound","Washington",48.147375,-122.457749,48.13146,-122.44319,2,TRUE,1,1,1
+"Semiahmoo Spit South","SemiSptS","Blaine","Puget Sound","Washington",48.97958,-122.79068,48.967723,-122.802399,1.6,TRUE,2,2,2
+"Harbor Heights","HrbrHgts","Vashon","Puget Sound","Washington",47.363071,-122.488503,47.381849,-122.483033,1,FALSE,NA,NA,NA
+"Penn Cove","PnnCv","Oak Harbor","Puget Sound","Washington",48.238216,-122.708832,48.238817,-122.695518,1,TRUE,2,1,1
+"South Mutiny Bay","SMtnyBy","Freeland","Puget Sound","Washington",48.004302,-122.556069,47.997523,-122.544856,1,TRUE,2,1,1
+"Olympus","Olymps","Port Ludlow","Puget Sound","Washington",47.939797,-122.684492,47.955838,-122.677499,1.2,TRUE,2,1,1
+"Sandy Shores","SndyShrs","Vashon","Puget Sound","Washington",47.35642,-122.447061,47.360117,-122.444794,3.2,TRUE,2,1,1
+"Penguin Harbour","PngnHrbr","Guemes","Puget Sound","Washington",48.566279,-122.61925,48.582678,-122.636886,2.4,TRUE,1,1,1
+"Libbey ","Lbby","Coupeville","Puget Sound","Washington",48.232356,-122.766511,48.240634,-122.761431,1,TRUE,2,1,1
+"Old Mill Park","OldMllPk","Silverdale","Puget Sound","Washington",47.649835,-122.692401,47.648211,-122.68413,0.95,TRUE,1,1,1
+"Lofall","Lofall","Lofall","Puget Sound","Washington",47.814574,-122.654955,47.812665,-122.664178,0.76,TRUE,NA,NA,NA
+"Weaverling Spit","WvrlgSpt","Anacortes","Puget Sound","Washington",48.485576,-122.596028,48.481966,-122.58546,0.91,TRUE,2,1,1
+"Squalicum North","SqlNth","Bellingham","Puget Sound","Washington",48.763093,-122.513586,48.766536,-122.523944,0.8,TRUE,2,2,2
+"Perego North","PrgNrth","Coupeville","Puget Sound","Washington",48.19782,-122.72747,48.20376,-122.73843,1,TRUE,2,2,2
+"South Shine","SShine","Port Ludlow","Puget Sound","Washington",47.866442,-122.636978,47.864198,-122.650801,1.09,TRUE,2,2,1
+"Fort Flagler West","FtFlglrW","Port Townsend","Puget Sound","Washington",48.092177,-122.729138,48.098374,-122.715074,1.3,TRUE,2,2,2
+"Scenic Beach State Park","ScncBch","Seabeck","Puget Sound","Washington",47.649973,-122.847338,47.651269,-122.842833,0.45,TRUE,1,1,1
+"Kopachuck State Park","Kpchck","Gig Harbor","Puget Sound","Washington",47.310681,-122.6866,47.307178,-122.688821,0.47,TRUE,2,1,NA
+"Guemes Southwest","GmsSW","Guemes","Puget Sound","Washington",48.549977,-122.652605,48.531782,-122.651709,2.1,TRUE,2,1,1
+"Day Island","DyIslnd","Tacoma","Puget Sound","Washington",47.244935,-122.561637,47.240788,-122.563934,0.52,TRUE,2,1,1
+"Titlow Beach","TtlwBch","Titlow","Puget Sound","Washington",47.246939,-122.553663,47.254519,-122.551911,0.91,TRUE,2,1,1
+"Ft Ebey State Park Beach","FtEbyStP","Coupeville","Puget Sound","Washington",48.224483,-122.770127,48.230187,-122.76856,0.66,TRUE,2,1,1
+"Ships Harbor","ShpsHrbr","Anacortes","Puget Sound","Washington",48.503982,-122.670371,48.506593,-122.677934,0.8,TRUE,2,2,1
+"Belfair State Park","BelfrSP","Belfair","Puget Sound","Washington",47.431452,-122.874541,47.426274,-122.882163,1,TRUE,2,1,1
+"North Beach Guemes","NrthBch","Guemes ","Puget Sound","Washington",48.56831,-122.622434,48.558244,-122.602187,1.9,TRUE,1,1,1
+"Walker County Park","WlkrPk","Shelton","Puget Sound","Washington",47.202447,-123.058306,47.203062,-123.065285,0.2,TRUE,2,1,1
+"Pelican Beach","PlcnBch","Cypress Island","Puget Sound","Washington",48.60453,-122.70514,48.60053,-122.70049,0.6,TRUE,1,1,1
+"Indianola Beach","IndnlBch","Indianola","Puget Sound","Washington",47.746652,-122.525694,47.743658,-122.513773,1,TRUE,2,1,1
+"Browns Point South","BrwnsPtS","Tacoma","Puget Sound","Washington",47.304633,-122.443895,47.305965,-122.444401,0.16,FALSE,NA,NA,NA
+"Sucia Drive South","SuciaS","Bellingham","Puget Sound","Washington",48.816052,-122.709078,48.8129,-122.70912,0.8,TRUE,2,1,1
+"Spring Beach","SprngBch","Vashon","Puget Sound","Washington",47.349125,-122.528124,47.340952,-122.525854,1,TRUE,1,1,1
+"Eglon","Eglon","Poulsbo","Puget Sound","Washington",47.869144,-122.514384,47.862195,-122.513561,0.8,TRUE,1,2,2
+"Mutiny Sands","MtnySnds","Freeland","Puget Sound","Washington",48.008487,-122.570799,48.004572,-122.556433,1.18,TRUE,2,2,1
+"Bush Point - South","BshPtS","Whidbey Island","Puget Sound","Washington",48.03321,-122.604043,48.02213,-122.595125,1.78,FALSE,NA,NA,NA
+"Summerland","Smmrlnd","Camano Island","Puget Sound","Washington",48.081363,-122.396002,48.075375,-122.39204,0.8,TRUE,1,1,1
+"Chuckanut Bay Pocket Estuary ","ChckByPE","Bellingham ","Puget Sound","Washington",48.698401,-122.507959,48.700496,-122.496147,1.12,TRUE,NA,NA,NA
+"Padilla Bay","PdllBy","Burlington","Puget Sound","Washington",48.484462,-122.478646,48.493285,-122.482805,1,TRUE,1,1,1
+"Ebeys Landing","EbysLndg","Coupeville","Puget Sound","Washington",48.1923,-122.709,48.194805,-122.715229,0.5,TRUE,2,2,2
+"Manzanita Beach WA","MnzntBch","Bainbridge Island","Puget Sound","Washington",47.676049,-122.560771,47.677926,-122.562984,0.4,FALSE,NA,NA,NA
+"Ala Spit","AlaSpt","Oak Harbor","Puget Sound","Washington",48.391988,-122.585832,48.39649,-122.586491,2,TRUE,2,1,1
+"Birch Bay State Park East","BchBySPE","Bellingham","Puget Sound","Washington",48.907072,-122.762417,48.910658,-122.751721,0.9,TRUE,2,2,2
+"Clark Point East","ClrkPntE","Guemes","Puget Sound","Washington",48.582243,-122.63693,48.58881,-122.647395,1.2,TRUE,1,1,1
+"Utsalady","Utsldy","Camano Island","Puget Sound","Washington",48.253877,-122.498184,48.252696,-122.496272,0.144,TRUE,2,2,2
+"Discovery Park South","DscPkS","Seatttle","Puget Sound","Washington",47.661888,-122.436052,47.658271,-122.426589,0.8,TRUE,2,2,1
+"Golden Gardens","GldnGrdn","Seattle","Puget Sound","Washington",47.689753,-122.403105,47.695266,-122.40416,0.8,TRUE,2,2,2
+"Seabold Beach","SbldBch","Winslow","Puget Sound","Washington",47.700954,-122.563131,47.711662,-122.564582,1.2,TRUE,1,1,1
+"Lagoon Point South","LgnPntS","Greenbank","Puget Sound","Washington",48.071883,-122.61315,48.05855,-122.5966,1.3,TRUE,2,2,1
+"Birch Bay","BrchBy","Bellingham","Puget Sound","Washington",48.93364,-122.74861,48.942508,-122.769082,1.84,TRUE,1,2,2
+"Twanoh State Park","TwnhStPk","Union","Puget Sound","Washington",47.376927,-122.977403,47.378482,-122.970401,0.72,TRUE,1,1,1
+"PTMSC","PTMSC","Port Townsend","Puget Sound","Washington",48.13631,-122.761594,48.14444,-122.754826,1.2,TRUE,2,2,2
+"Blue Ridge ","BlRdg","Seattle","Puget Sound","Washington",47.702426,-122.390374,47.700415,-122.395595,0.45,TRUE,2,1,1
+"Hawley Cove Park - Eagle Harbor","HwlyCvPk","Bainbridge Island","Puget Sound","Washington",47.626502,-122.502743,47.626483,-122.50268,0.2,TRUE,1,1,1
+"Deception Pass West","DcptnW","Anacortes","Puget Sound","Washington",48.401778,-122.664332,48.390795,-122.664449,1.3,TRUE,2,1,1
+"Isthmus Beach West","IsthmusW","Indian Island","Puget Sound","Washington",48.019542,-122.708208,48.024792,-122.722054,1.26,TRUE,NA,1,1
+"Point Robinson","PtRbnsn","Vashon","Puget Sound","Washington",47.388534,-122.373564,47.36945,-122.430825,5,TRUE,NA,NA,NA
+"Double Bluff","DblBlff","Freeland","Puget Sound","Washington",47.9674,-122.546,47.9713,-122.529,1.4,TRUE,2,2,2
+"Saltwater State Park","SltWtrSP","Kent","Puget Sound","Washington",47.371532,-122.324017,47.375809,-122.324755,0.4,TRUE,1,2,2
+"Langley","Lngly","Langley","Puget Sound","Washington",48.037529,-122.403776,48.034693,-122.37603,2.26,TRUE,2,2,2
+"Shine Tidelands State Park","ShnTdlnd","Ludlow","Puget Sound","Washington",47.867072,-122.636195,47.888702,-122.627731,2.6,TRUE,2,1,1
+"Newport Beach","NwprtBch","Vashon","Puget Sound","Washington",47.39395,-122.46589,47.401461,-122.465312,1.5,TRUE,1,1,1
+"Discovery Park North","DscPkN","Seattle","Puget Sound","Washington",47.662176,-122.435763,47.663164,-122.430169,0.4,TRUE,2,2,2
+"Coupeville Beach","CpvllBch","","Puget Sound","Washington",48.220865,-122.678465,48.22141,-122.687693,1,TRUE,2,1,1
+"Foulweather Bluff","flwthrbl","Hansville","Puget Sound","Washington",47.920175,-122.595834,47.923962,-122.607087,1.02,TRUE,2,2,1
+"Country Club North","CtryClbN","Camano Island","Puget Sound","Washington",48.158612,-122.465075,48.174556,-122.477188,2.2,TRUE,1,1,1
+"Irondale Beach County Park","IrndlBch","Irondale","Puget Sound","Washington",48.048098,-122.770784,48.041565,-122.765524,0.85617,TRUE,2,1,1
+"Paradise Cove","PrdsCv","Vashon","Puget Sound","Washington",NA,NA,NA,NA,1,TRUE,1,1,1
+"Middle Waterway","MddlWtwy","Tacoma","Puget Sound","Washington",47.255715,-122.426941,47.258074,-122.428079,1,TRUE,1,1,1
+"Sunnyside Beach","SnysdBch","Lakewood","Puget Sound","Washington",47.177027,-122.590769,47.187002,-122.584487,1.2,TRUE,1,2,2
+"Stretch Island (SE)","SEStrtch","Shelton","Puget Sound","Washington",47.315816,-122.830337,47.318361,-122.833088,0.7,FALSE,NA,NA,NA
+"Madrona Beach","MdrnaBch","Camano Island","Puget Sound","Washington",48.223959,-122.534401,48.216412,-122.536635,1.2,TRUE,1,1,1
+"Bingham Holland","BngHmHld","Cypress Island","Puget Sound","Washington",48.54346,-122.68744,48.54367,-122.69959,1,TRUE,1,1,1
+"Kukutali Preserve","KktlPrsr","La Conner","Puget Sound","Washington",48.4205,-122.5599,48.4168,-122.5742,1,TRUE,2,2,2
+"Mukilteo","Mukilteo","Mukilteo","Puget Sound","Washington",47.947924,-122.307223,47.945024,-122.307668,0.33,TRUE,2,1,1
+"Gooseberry Point","GsbrryPt","Bellingham","Puget Sound","Washington",48.731375,-122.663231,48.732738,-122.672886,1.1,TRUE,1,2,2
+"Kayak Point","KykPt","Marysville","Puget Sound","Washington",48.139063,-122.3651,48.130572,-122.362366,1.23,TRUE,1,2,2
+"Manchester State Park","Mnchstr","Manchester","Puget Sound","Washington",47.58099,-122.549271,47.574702,-122.546476,1.09,TRUE,1,1,1
+"Maple Point Beach","MplPtBch","","Puget Sound","Washington",47.92982,-122.44522,47.91478,-122.43154,1.96,TRUE,NA,NA,NA
+"Picnic Point Park","PcncPnt","Mukilteo","Puget Sound","Washington",47.878778,-122.332471,47.88309,-122.332115,0.3,TRUE,2,2,2
+"Fay Bainbridge SP","FyBnbrdg","Bainbridge Island","Puget Sound","Washington",47.702304,-122.506318,47.708605,-122.510711,0.8,TRUE,2,1,1
+"Lisabuela Beach","Lisbla","Vashon","Puget Sound","Washington",47.405155,-122.521356,47.411411,-122.51733,0.8,TRUE,1,1,1
+"Dockton North","DcktnN","Vashon","Puget Sound","Washington",47.39068,-122.431867,47.391758,-122.433229,2.1,TRUE,1,1,1
+"Burton Beach South","BrtnBchS","Vashon","Puget Sound","Washington",47.3847,-122.479,47.3856,-122.456,0.6,FALSE,NA,NA,NA
+"Carkeek Park","CrkkPrk","Seattle","Puget Sound","Washington",47.712703,-122.379433,47.716727,-122.376381,1,TRUE,2,1,1
+"Beals Point","BealsPnt","Vashon","Puget Sound","Washington",47.469222,-122.438792,47.464307,-122.435293,0.5,FALSE,NA,NA,NA
+"President Point","PrsdntPt","Kingston","Puget Sound","Washington",47.763266,-122.471314,47.770026,-122.478676,1,TRUE,1,1,1
+"DuPont Wharf","DpntWrf","DuPont","Puget Sound","Washington",47.117087,-122.666247,47.118778,-122.665227,0.2,TRUE,1,1,1
+"Fort Townsend State Park N","FtTwnN","Port Townsend","Puget Sound","Washington",48.086616,-122.801452,48.078269,-122.788367,1.35,TRUE,2,2,2
+"Howarth Park","Hwarth","Everett","Puget Sound","Washington",47.963843,-122.241298,47.961973,-122.244153,0.27,TRUE,1,1,1
+"Country Club South","CtryClbS","Camano Island","Puget Sound","Washington",48.157515,-122.464646,48.147649,-122.458168,1.2,TRUE,1,1,1
+"Point White","PtWhite","Bainbridge Island","Puget Sound","Washington",47.596474,-122.574826,47.601485,-122.576815,0.58,TRUE,1,1,1
+"Fern Cove","FrnCve","Vashon","Puget Sound","Washington",47.482306,-122.481666,47.480737,-122.482271,0.2,TRUE,1,1,1
+"Fort Ward State Park","FtWrdStP","Bainbridge Island","Puget Sound","Washington",47.592828,-122.534986,47.574698,-122.522532,2.4,TRUE,1,1,1
+"Brackett's Landing","BrktLnd","Edmonds","Puget Sound","Washington",47.8129,-122.383,47.81672,-122.378354,1,TRUE,2,2,2
+"Clark Point ","ClkPt","Guemes Island","Puget Sound","Washington",48.582243,-122.63693,48.582143,-122.651417,1.6,FALSE,NA,NA,NA
+"Point No Point South","PntNPntS","Hansville","Puget Sound","Washington",47.9105,-122.5268,47.9086,-122.5268,1,TRUE,1,1,2
+"Hastie Lake Rd S","HstLkRdS","Oak Harbor","Puget Sound","Washington",48.264482,-122.748328,48.25378,-122.75573,1.3,TRUE,2,2,2
+"Tulare","Tulare","Marysville","Puget Sound","Washington",48.104294,-122.343945,48.098419,-122.343546,0.68,FALSE,NA,NA,NA
+"Clayton Beach","ClytnBch","Bellingham","Puget Sound","Washington",48.62358,-122.45178,48.616248,-122.445487,1,TRUE,2,2,2
+"Maxwelton","Mxwltn","Maxwelton","Puget Sound","Washington",47.939313,-122.444643,47.924947,-122.439389,2.2,TRUE,NA,NA,NA
+"Browns Point North","BrwnsPtN","Tacoma","Puget Sound","Washington",47.305965,-122.44441401,47.306246,-122.440965,0.26,FALSE,NA,NA,NA
+"Jetty Island","JttyIsld","Everett","Puget Sound","Washington",48.019691,-122.21745,48.012783,-122.227167,1.3,TRUE,2,2,2
+"Lighthouse Park","LthsePk","Blaine","Puget Sound","Washington",48.973661,-123.084606,48.972112,-123.078702,0.8,TRUE,1,1,1
+"Scatchet Head","SctchtHd","Clinton","Puget Sound","Washington",47.913032,-122.419542,47.914488,-122.43167,0.9,TRUE,2,1,1
+"Portage East","PrtgEst","Vashon","Puget Sound","Washington",47.407437,-122.437582,47.40045,-122.416542,2.2,TRUE,2,1,1
+"Shannon Point","ShnnnPnt","Anacortes","Puget Sound","Washington",48.508784,-122.685408,48.50463,-122.688722,1,TRUE,2,1,1
+"Deception Pass North","DcptnN","Anacortes","Puget Sound","Washington",48.401729,-122.662111,48.403767,-122.648507,1.25,TRUE,2,1,1
+"Kingston Ferry","KgstnFry","Kingston","Puget Sound","Washington",47.79746,-122.495086,47.801556,-122.488953,0.65,TRUE,2,1,1
+"KVI Beach","KVIBch","Vashon","Puget Sound","Washington",47.417501,-122.440002,47.429344,-122.435712,2,TRUE,2,1,1
+"South Madrona Beach","SthMdrna","Camano Island","Puget Sound","Washington",48.212543,-122.538347,48.208213,-122.538382,0.5,TRUE,2,1,1
+"Luhr Beach","LuhrBch","Olympia","Puget Sound","Washington",47.100869,-122.727007,47.09486,-122.727476,0.68,TRUE,2,1,1
+"Possession East","PssnE","Possession","Puget Sound","Washington",47.915692,-122.375698,47.926035,-122.374413,1.2,TRUE,2,1,1
+"Riviera Club","RvraClb","Anderson Island","Puget Sound","Washington",47.15314,-122.67601,47.16274,-122.67525,1.1,TRUE,1,1,1
+"Samish Northside","SamishN","Samish Island","Puget Sound","Washington",48.577357,-122.540802,48.580096,-122.5467,0.55,TRUE,2,1,1
+"Semiahmoo Marina","SmhmMrn","Blaine","Puget Sound","Washington",48.976568,-122.790712,48.986565,-122.774032,1.74,TRUE,2,1,1
+"Semiahmoo Spit","SemiSpt","Blaine","Puget Sound","Washington",48.979583,-122.790675,48.988901,-122.776578,1.47,TRUE,2,1,1
+"Useless Bay","UslssBy","Maxwelton","Puget Sound","Washington",47.98221,-122.467537,47.975696,-122.430191,1.25,TRUE,2,1,1
+"Richmond Beach","Rchmnd","Seattle","Puget Sound","Washington",47.763503,-122.385309,47.757506,-122.379455,0.66,TRUE,2,1,1
+"Green Point","GrnPnt","Anacortes","Puget Sound","Washington",48.496742,-122.700451,48.499982,-122.699215,0.4,TRUE,2,1,1
+"Edmonds Marina","EdMar","Edmonds","Puget Sound","Washington",47.806378,-122.395436,47.803574,-122.394564,0.5,TRUE,2,1,1
+"Cherry Point","ChrryPt","Bellingham","Puget Sound","Washington",48.855969,-122.730396,48.852115,-122.721612,2.1,TRUE,2,2,2
+"Alki Beach","AlkBch","Seattle","Puget Sound","Washington",47.583634,-122.401215,47.57978,-122.409696,0.8,TRUE,2,2,1
+"Locust Ave North","LcstAvN","Bellingham","Puget Sound","Washington",48.772465,-122.532357,48.777704,-122.553274,1.78,TRUE,2,2,2
+"Smith Cove","SmthCv","Seattle","Puget Sound","Washington",47.6314,-122.395655,47.635724,-122.407447,1.02,TRUE,2,2,1
+"Teronda West","TrndW","Coupeville","Puget Sound","Washington",48.127878,-122.600816,48.120797,-122.600199,0.8,TRUE,2,1,1
+"Sunset Beach","Sunset","Anacortes","Puget Sound","Washington",48.49994,-122.693275,48.502429,-122.690953,0.4,TRUE,2,2,2
+"Locust Ave South","LcstAvS","Bellingham","Puget Sound","Washington",48.771819,-122.531599,48.768103,-122.528176,0.8,TRUE,2,1,1
+"Point Julia - North","PtJuliaN","Little Boston","Puget Sound","Washington",47.855032,-122.576241,47.859894,-122.573436,0.6,TRUE,2,1,1
+"Cove South","CoveSth","Vashon","Puget Sound","Washington",47.454278,-122.51178,47.446584,-122.51279,1.5,TRUE,2,1,1
+"Hood Head N","HoodHdN","Port Ludlow","Puget Sound","Washington",47.889615,-122.636628,47.887442,-122.610512,2,TRUE,1,2,1
+"Owens Beach","OwnBch","Tacoma","Puget Sound","Washington",47.312519,-122.527325,47.317651,-122.547593,0.8,TRUE,2,1,2
+"Freeland Park","FrlndPrk","Freeland","Puget Sound","Washington",48.015593,-122.539886,48.016257,-122.525884,1.18,TRUE,2,1,1
+"Andrew Anderson Marine Park","AnwAndMP","Anderson Island","Puget Sound","Washington",47.146412,-122.73299,47.13807,-122.7223,1.3,TRUE,1,1,1
+"Tolmie Park West","TlmPkW","Olympia","Puget Sound","Washington",47.122786,-122.776441,47.121928,-122.777684,0.13,TRUE,2,1,1
+"Lily Point","LlyPnt","Point Roberts","Puget Sound","Washington",48.979763,-123.02532,48.973994,-123.027829,1.5,TRUE,1,1,1
+"Indian Island South","IndnIslS","Port Townsend","Puget Sound","Washington",48.024884,-122.719501,48.01572,-122.698847,2,FALSE,NA,NA,NA
+"Blaine Marine Park","BlnMrnPk","Blaine","Puget Sound","Washington",48.996663,-122.758272,48.992108,-122.766254,0.5,TRUE,1,2,1
+"Keystone Spit North","KystnSpN","Keystone","Puget Sound","Washington",48.157544,-122.671109,48.163172,-122.651098,1.63,TRUE,2,1,1
+"Rockaway Beach","RckwyBch","Bainbridge Island","Puget Sound","Washington",47.598993,-122.498204,47.612616,-122.498667,1.56,TRUE,1,1,1
+"Mutiny Bay Rd N","MnyByRdN","Freeland","Puget Sound","Washington",48.008608,-122.571333,48.016667,-122.587461,1.6,TRUE,1,1,1
+"Warm Beach","WarmBch","Stanwood","Puget Sound","Washington",48.1749,-122.363279,48.182197,-122.357182,1,FALSE,NA,NA,NA
+"Point Vashon South","PntVshnS","Vashon","Puget Sound","Washington",47.510042,-122.476574,47.505208,-122.4759,0.7,TRUE,2,1,1
+"Boulevard Park","BlvrdPrk","Bellingham","Puget Sound","Washington",48.742529,-122.49006,48.737143,-122.495737,0.4,TRUE,2,2,2
+"Lowman","Lwmn","Seattle","Puget Sound","Washington",47.540456,-122.397434,47.538984,-122.396795,0.2,TRUE,2,1,1
+"Kitsap Memorial Park","KtspMmrl","Poulsbo","Puget Sound","Washington",47.814875,-122.65462778,47.8215306,-122.64974444,0.83,TRUE,1,1,1
+"Lynwood Center","LynwdCtr","Bainbridge Island","Puget Sound","Washington",47.603951,-122.549466,47.603212,-122.553232,0.5,TRUE,2,1,1
+"Sucia Drive North","SuciaDrN","Bellingham","Puget Sound","Washington",48.811738,-122.709161,48.825708,-122.71108,1.2,TRUE,2,1,1
+"North Fort Casey","NthFtCsy","Coupeville","Puget Sound","Washington",48.165039,-122.682904,48.183421,-122.69614,2.2,TRUE,2,1,1
+"East Beach Park N","EBchPkN","Marrowstone","Puget Sound","Washington",48.056819,-122.683831,48.062833,-122.684629,1.5,TRUE,2,1,1
+"Point Whitehorn","PtWhthrn","Bellingham","Puget Sound","Washington",48.901279,-122.773861,48.894891,-122.792118,1.66,TRUE,2,2,2
+"Guemes Potlatch","GmsPltch","Guemes Island","Puget Sound","Washington",48.55004,-122.652544,48.56904,-122.650511,2.7,TRUE,1,1,1
+"Dumas Bay Park","DmsByPrk","Federal Way","Puget Sound","Washington",47.327479,-122.38587,47.326033,-122.382627,0.36,TRUE,1,1,1
+"Rocky Point","rckypnt","Coupeville","Puget Sound","Washington",48.322571,-122.702594,48.316267,-122.706104,0.75,TRUE,2,1,1
+"Fort Flagler","FtFlglr","Port Townsend","Puget Sound","Washington",48.102457,-122.689963,48.098472,-122.714936,2,TRUE,2,1,1
+"Sunset Beach 2","SnstBch2","Whidbey Island","Puget Sound","Washington",48.296329,-122.725972,48.286426,-122.728696,1.1,TRUE,2,1,1
+"Bowman Bay","Bowman","Anacortes","Puget Sound","Washington",48.4183,-122.65444,48.4135,-122.650717,0.63,TRUE,2,1,1
+"Eglon South","EglonS","Kingston","Puget Sound","Washington",47.862438,-122.513701,47.854338,-122.508414,1,TRUE,2,1,1
+"Battle Point","BttlPnt","Bainbridge","Puget Sound","Washington",47.666902,-122.583805,47.663481,-122.592704,0.8,TRUE,1,1,1
+"South Clark Point","SthClkPt","Guemes","Puget Sound","Washington",48.57202,-122.651809,48.581898,-122.651339,1.1,TRUE,1,1,1
+"Evergreen Beach","Evrgrn","Olympia","Puget Sound","Washington",47.080929,-122.982768,47.087132,-122.9747,0.98,TRUE,2,1,1
+"East Drayton Harbor","EDrytnH","","Puget Sound","Washington",48.96807,-122.73376,48.96242,-122.732435,0.75,TRUE,2,2,2
+"Meadowdale Park","MdwdlPrk","Seattle","Puget Sound","Washington",47.857534,-122.334519,47.86434,-122.333629,1,TRUE,2,2,2
+"Birch Bay Village West","BrcByVgW","Bellingham","Puget Sound","Washington",48.931654,-122.788074,48.93399,-122.800659,0.98,TRUE,2,1,1
+"Clark Point West","ClrkPntW","Guemes","Puget Sound","Washington",48.582143,-122.651417,48.58881,-122.647395,0.9,TRUE,1,1,1
+"Hood Head E","HoodHdE","Port Ludlow","Puget Sound","Washington",47.88742,-122.61051,47.877639,-122.622365,1.5,TRUE,1,1,1
+"Bush Point North","BshPtN","Whidbey Island","Puget Sound","Washington",48.0361,-122.5995,48.0398,-122.5966,0.47,TRUE,2,1,1
+"Chuckanut Bay","ChckntBy","Bellingham","Puget Sound","Washington",48.670428,-122.490762,48.676045,-122.490464,0.4,TRUE,2,2,2
+"Bush Point","BshPnt","Whidbey Island","Puget Sound","Washington",48.033592,-122.6036,48.050141,-122.593739,2.08,FALSE,NA,NA,NA
+"Point No Point Road","PntNPntR","","Puget Sound","Washington",47.55009,-122.32435,47.54423,-122.31587,1.15,TRUE,1,2,2
+"Fort Flagler East","FrtFlgE","Port Townsend","Puget Sound","Washington",48.101722,-122.687697,48.07863,-122.688789,2.5,TRUE,2,1,1
+"Chuckamud Bay","ChckmdBy","Bellingham","Puget Sound","Washington",48.702105,-122.497552,48.697698,-122.50571,1.3,TRUE,2,1,1
+"Oak Head","OakHd","Coyle","Puget Sound","Washington",47.682664,-122.813406,47.689749,-122.828866,1.4,TRUE,2,1,1
+"Stavis Bay","stvsby","Seabeck","Puget Sound","Washington",47.633113,-122.874866,47.630581,-122.868199,0.6,TRUE,1,1,1
+"Terrell Mouth","TrrllMth","Birch Bay","Puget Sound","Washington",48.92167,-122.745264,48.932281,-122.747548,1.2,TRUE,1,1,1
+"Point Julia - South","PtJuliaS","Little Boston","Puget Sound","Washington",47.855032,-122.576241,47.85405,-122.572168,0.33,TRUE,2,1,1
+"Rolling Bay","RllngBy","","Puget Sound","Washington",47.662595,-122.499998,47.664705,-122.503964,1,TRUE,NA,NA,NA
+"Barnum Point","BrnmPnt","Camano","Puget Sound","Washington",48.19684,-122.45457,48.19966,-122.45313,0.622,TRUE,2,1,1
+"Purdy Spit","PrdySpt","Wauna","Puget Sound","Washington",47.379125,-122.642237,47.383743,-122.628755,1.13,TRUE,2,2,2
+"Guemes Channel East","GmsChnlE","Guemes","Puget Sound","Washington",48.536837,-122.592117,48.528433,-122.624558,2.65,TRUE,1,1,1
+"Keystone Spit South","KystnSpS","Keystone","Puget Sound","Washington",48.163666,-122.637601,48.163176,-122.651069,1.1,TRUE,2,1,1
+"Manitou Beach","Manitou","Bainbridge Island","Puget Sound","Washington",47.653833,-122.516808,47.657408,-122.506201,0.9,TRUE,1,1,1
+"Skyline Marina Beach","SkylnMr","Anacortes","Puget Sound","Washington",48.490894,-122.683573,48.492177,-122.68868,0.43,TRUE,2,1,1
+"Ed Munro Seahurst Pk","EdMnrPk","Burien","Puget Sound","Washington",47.48234,-122.36136,47.47548,-122.36571,0.86,TRUE,2,1,1
+"Camp Kirby","CmpKrby","Samish Island","Puget Sound","Washington",48.574397,-122.557931,48.581837,-122.560511,0.96,TRUE,1,1,1
+"Point No Point","PntNoPnt","Kingston","Puget Sound","Washington",47.911804,-122.532674,47.90385,-122.52797,1.5,TRUE,2,2,2
+"Westhaven","Wsthvn","Westport","South Coast","Washington",46.886709,-124.126931,46.904552,-124.133681,2,TRUE,2,1,1
+"South Damon","SthDmn","Ocean Shores","South Coast","Washington",47.017455,-124.172761,47.007074,-124.172432,1.14,TRUE,2,1,1
+"North Surfside","NthSrfsd","Ocean Park","South Coast","Washington",46.548093,-124.061967,46.530155,-124.060319,1.5,TRUE,1,1,1
+"Jacobsen Jetty North ","JcbsnJtN","North Cove","South Coast","Washington",46.732821,-124.064073,46.735588,-124.076803,1.6,TRUE,2,1,1
+"Cranberry Rd South","CrnbrryS","Long Beach","South Coast","Washington",46.395349,-124.0617,46.371525,-124.062903,2.4,TRUE,1,1,1
+"Washaway Beach #1","WswyBch1","Grayland","South Coast","Washington",46.746231,-124.096908,46.741383,-124.09178,0.65,TRUE,2,1,1
+"Jacobsen Jetty South","JbsnJtty","North Cove","South Coast","Washington",46.728795,-124.058134,46.721938,-124.032807,2.13,TRUE,1,1,1
+"Bonge South","BngSth","Westport","South Coast","Washington",46.849198,-124.112061,46.8372,-124.108358,1.4,TRUE,2,1,1
+"Damon Point-West","DmnPntWe","Ocean Shores","South Coast","Washington",46.944554,-124.1432,46.934355,-124.154552,2.4,TRUE,2,2,2
+"Isthmus Beach ","Isthmus","Indian Island ","Puget Sound","Washington",48.019542,-122.708208,48.01585,-122.69939,0.79,TRUE,NA,NA,NA
+"Floral Point","FlrlPnt","Bangor","Puget Sound","Washington",47.768142,-122.712219,47.761517,-122.719158,1,TRUE,1,1,1
+"Joseph Whidbey SP","JsphWhdb","Oak Harbor","Puget Sound","Washington",48.308077,-122.71636,48.316267,-122.706104,1.18,TRUE,2,1,1
+"Possession Beach","PssnBch","Clinton","Puget Sound","Washington",47.90636,-122.37715,47.90696,-122.39241,1.6,TRUE,2,1,1
+"Fort Ebey Kettle","FrtEbyKt","Coupeville","Puget Sound","Washington",48.20376,-122.73843,48.21049,-122.7457,1,TRUE,2,1,1
+"Magnolia Beach","MgnlBch","Vashon","Puget Sound","Washington",47.385624,-122.478117,47.371019,-122.486927,2,TRUE,1,1,1
+"Pomeroy Park","PomryPk","Manchester","Puget Sound","Washington",47.562504,-122.538517,47.55535,-122.543335,0.88,TRUE,2,1,1
+"Tolmie Park East","TolmPkE","Olympia","Puget Sound","Washington",47.121349,-122.776767,47.120438,-122.772948,0.3,TRUE,2,2,1
+"Chambers Bay","ChmbrsBy","Tacoma","Puget Sound","Washington",47.203563,-122.581753,47.19629,-122.58248,0.83,TRUE,2,1,1
+"Point Robinson North","PtRbnsnN","Vashon","Puget Sound","Washington",47.388534,-122.373564,47.382717,-122.390533,1.5,TRUE,1,2,1
+"Waterman Point","WtrmnPt","Port Orchard","Puget Sound","Washington",47.583407,-122.569128,47.579635,-122.572158,0.53,FALSE,NA,NA,NA
+"Manchester Fuel Depot","MchtrDpt","Manchester","Puget Sound","Washington",47.572032,-122.551141,47.574134,-122.54764,0.9,TRUE,1,1,1
+"Pitt Passage","PtPsge","Home","Puget Sound","Washington",47.213538,-122.734104,47.223647,-122.721052,1.77,TRUE,2,1,1
+"Jefferson Beach Park","JffsnPrk","Indianola","Puget Sound","Washington",47.745994,-122.477266,47.752189,-122.473781,0.9,TRUE,1,1,2
+"Silverdale Waterfront Park","SlvrdlWt","Silverdale","Puget Sound","Washington",47.643268,-122.696136,47.641664,-122.699324,0.45,TRUE,2,1,1
+"Jensen Point","JnsnPnt","Vashon","Puget Sound","Washington",47.390148,-122.447098,47.384911,-122.450178,0.5,TRUE,1,1,1
+"Ledgewood Beach - North","LdgwdN","Keystone","Puget Sound","Washington",48.14463,-122.605252,48.157696,-122.614946,1.63,TRUE,2,2,1
+"English Boom Preserve","EnglshBm","Camano Island","Puget Sound","Washington",48.262448,-122.437917,48.263873,-122.441499,0.4,TRUE,2,1,1
+"Mission Beach","MssnBch","Mission Beach","Puget Sound","Washington",48.055314,-122.284956,48.048155,-122.274422,2.02,TRUE,2,2,2
+"Fort Townsend State Park S","FtTwnsnd","Port Townsend","Puget Sound","Washington",48.078338,-122.788566,48.070258,-122.785816,0.95,TRUE,2,1,1
+"Perego Lagoon","PrgLgn","Coupeville","Puget Sound","Washington",48.194805,-122.715229,48.197868,-122.727823,1,TRUE,2,1,1
+"Dash Point St. Park","dshpntsp","Federal Way","Puget Sound","Washington",47.320357,-122.414626,47.32258,-122.402123,1,TRUE,1,2,2
+"Race Lagoon Spit","RcLgnSt","Coupeville","Puget Sound","Washington",48.1923,-122.595114,48.195592,-122.600442,0.55,TRUE,1,2,2
+"Menard's Landing","MnrdsLdg","Tahuya","Puget Sound","Washington",47.386782,-123.112357,47.385902,-123.113947,0.26,TRUE,1,1,1
+"Guemes Island","GmsIs","Anacortes","Puget Sound","Washington",48.528443,-122.624746,48.53242,-122.652244,2.2,TRUE,2,2,2
+"Indianola Pier W","IndPrW","Indianola","Puget Sound","Washington",47.74756,-122.537338,47.746657,-122.525798,0.9,TRUE,1,1,1
+"Inner Fidalgo Bay","InrFdlgB","Skagit","Puget Sound","Washington",48.482197,-122.59292,48.482076,-122.590026,0.26,TRUE,2,1,1
+"Lincoln Park Beach","LnclnPrk","Seattle","Puget Sound","Washington",47.526142,-122.395084,47.536925,-122.396352,1.57,TRUE,2,2,2
+"Admiralty Inlet","AdmInlt","Port Towsend","Puget Sound","Washington",48.118679,-122.750791,48.132064,-122.76268,1,TRUE,2,2,2
+"Long Beach North","LngBchNo","Camano Island","Puget Sound","Washington",48.216593,-122.446675,48.201447,-122.449517,1.4,TRUE,2,1,1
+"Strawberry Bay","StrwbyBy","Cypress Island","Puget Sound","Washington",48.55846,-122.72128,48.56588,-122.72705,1.2,TRUE,1,1,1
+"Browns Point  Lighthouse Park","BrwnsPnt","Tacoma","Puget Sound","Washington",47.304591,-122.443883,47.306138,-122.443261,0.24,TRUE,2,1,2
+"Lions Park","LnsPrk","Bremerton","Puget Sound","Washington",47.585107,-122.644478,47.582088,-122.636918,0.7,TRUE,2,1,1
+"Mabana","Mabana","Camano Island","Puget Sound","Washington",48.089024,-122.407238,48.093074,-122.415782,0.8,TRUE,1,1,1
+"Priest Point Park","PrstPtPk","Olympia","Puget Sound","Washington",47.076568,-122.903768,47.073869,-122.896436,1,TRUE,1,1,1
+"Warrenton Cannery Rd North","WrCnRdN","Grayland","South Coast","Washington",46.746272,-124.093373,46.758445,-124.102187,1.3,TRUE,2,1,1
+"Heath South","HthSth","Copalis Beach","South Coast","Washington",47.111249,-124.183383,47.104213,-124.181701,0.8,TRUE,1,1,1
+"South Butter Clam","SthBtrCl","Ocean Shores","South Coast","Washington",46.962702,-124.173734,46.952562,-124.174723,1.2,TRUE,2,1,1
+"Grayland South","GrylndS","Grayland","South Coast","Washington",46.809503,-124.100837,46.799161,-124.099127,1.15,TRUE,2,1,1
+"Cranberry Rd North","CrnbrryN","Long Beach","South Coast","Washington",46.395349,-124.0617,46.40587,-124.06169,1,TRUE,1,1,1
+"Ocean Park Middle","OcnPkMdl","Ocean Park","South Coast","Washington",46.504902,-124.059365,46.491612,-124.058404,1.5,TRUE,2,2,2
+"Bottle Beach ","BttlBch","Aberdeen","South Coast","Washington",46.893344,-124.04687,46.898348,-124.036012,1.02,TRUE,2,1,1
+"Grayland Beach State Park","GrylndSP","Westport","South Coast","Washington",46.79404,-124.09823,46.76932,-124.10224,1.71,TRUE,1,1,1
+"Dune Beach","Dune","Westport","South Coast","Washington",46.886444,-124.127198,46.874278,-124.12215,1.46,TRUE,2,1,1
+"North Jetty to Cape D","NjttyCpD","Ilwaco","South Coast","Washington",46.26935,-124.078448,46.284119,-124.07854,1.5,TRUE,1,1,1
+"Ocean Park-South","OcnPkSth","Ocean Park","South Coast","Washington",46.477074,-124.059453,46.491746,-124.05878,1.6,TRUE,2,1,1
+"Fishing Bay","FishnBay","Orcas Island","San Juan","Washington",48.694027,-122.910788,48.694288,-122.909377,0.1,TRUE,2,2,2
+"Otis Perkins North","OtsPrknN","Lopez Island","San Juan","Washington",48.50096,-122.93808,48.51404,-122.93383,1.5,TRUE,2,1,1
+"Pearl Island","PrlIslnd","Pearl Island","San Juan","Washington",48.614089,-123.160837,48.616437,-123.169717,1.2,TRUE,1,1,1
+"Cattle Point S","CttlPntS","Friday Harbor","San Juan","Washington",48.454011,-122.962067,48.45236,-122.96293,0.2,TRUE,2,1,1
+"North Mail Bay","NMailBay","Waldron Island","San Juan","Washington",48.701344,-123.011401,48.703217,-123.011079,0.2,TRUE,1,1,1
+"West Obstruction","WstObstr","Orcas Island","San Juan","Washington",48.603729,-122.830439,48.603399,-122.830305,0.04,FALSE,NA,NA,NA
+"False Bay","FalseBay","San Juan Island","San Juan","Washington",48.490306,-123.066769,48.487233,-123.062415,3.2,TRUE,2,2,2
+"Tift Rocks Cove","TftRkCv","","San Juan","Washington",48.580028,-122.997925,48.58132,-123.001044,0.5,TRUE,1,1,1
+"North Bay Waldron","NByWldrn","Waldron Island","San Juan","Washington",48.699546,-123.071452,48.716892,-123.041062,3.2,TRUE,2,2,2
+"Spencer Spit South","SpncSptS","Lopez Island","San Juan","Washington",48.534967,-122.857674,48.536568,-122.850252,0.57,TRUE,1,1,1
+"Watmough Bay","WtmghBy","Lopez Island","San Juan","Washington",48.431028,-122.814616,48.430195,-122.813453,0.3,TRUE,2,1,1
+"Eagle Cove","EaglCove","San Juan Island","San Juan","Washington",48.461537,-123.031725,48.460574,-123.033673,0.3,TRUE,2,2,2
+"Barlow Bay","BarlowBy","Lopez Island","San Juan","Washington",48.432965,-122.868294,48.432522,-122.87535,0.6,TRUE,2,1,1
+"Jackson Beach","JcksnBch","San Juan Island","San Juan","Washington",48.518333,-123.012435,48.520833,-123.005556,0.59,TRUE,2,2,2
+"Fox Point","FxPt","Sucia Island","San Juan","Washington",48.753637,-122.910818,48.751686,-122.913584,0.5,TRUE,1,1,1
+"Decatur East","Dctr Est","Decatur Island","San Juan","Washington",48.5101,-122.78468,48.50236,-122.79298,1.149,TRUE,1,NA,NA
+"Reid Harbor","RdHrbr","","San Juan","Washington",NA,NA,NA,NA,1,TRUE,1,1,1
+"McArdle Bay","mcrdlby","Lopez Island","San Juan","Washington",48.427232,-122.824171,48.429494,-122.825529,0.28,TRUE,1,1,1
+"Burget Beach","BrgtBch","","San Juan","Washington",48.665794,-123.207092,48.666374,-123.209164,0.4,FALSE,NA,NA,NA
+"Guthrie Cove B","GthrCvB","Orcas","San Juan","Washington",48.593635,-122.877027,48.591623,-122.881584,0.4,TRUE,1,1,1
+"Jefferts/Behyre","Jffrts","Shaw Island","San Juan","Washington",48.58,-122.997939,48.581272,-123.001095,0.3,TRUE,1,1,1
+"Deadman Bay","DdmnBay","San Juan Island","San Juan","Washington",48.51252,-123.144396,48.513347,-123.146933,0.2,TRUE,2,2,2
+"South Swifts Bay","SSwftsBy","Lopez Island","San Juan","Washington",48.542154,-122.874895,48.5417,-122.867522,1.4,TRUE,1,1,1
+"Blanchard East","BlnchrdE","Eastsound","San Juan","Washington",48.713573,-122.91698,48.713982,-122.908961,0.6,TRUE,1,2,2
+"Henry Island Isthmus","HnryIsIs","Henry Island","San Juan","Washington",48.59529,-123.189939,48.593359,-123.182997,0.9,TRUE,2,1,2
+"Odlin","Odlin","Lopez Island","San Juan","Washington",48.558596,-122.890486,48.556702,-122.893074,1.4,TRUE,2,1,1
+"County Park North","CntyPkN","San Juan Island","San Juan","Washington",48.543195,-123.160951,48.543728,-123.160659,0.1,TRUE,2,1,1
+"Pres. Channel N","PresChN","Waldron Island","San Juan","Washington",48.719273,-123.008274,48.72207,-123.010138,1.7,TRUE,1,1,1
+"Spencer Spit","SpncrSpt","Lopez Island","San Juan","Washington",48.538779,-122.858353,48.536559,-122.850978,1,TRUE,2,1,1
+"Westsound","WstSnd","Orcas Island","San Juan","Washington",48.631672,-122.961666,48.631467,-122.958878,0.2,TRUE,2,1,1
+"Shark Reef South","ShrkRfS","Lopez Island","San Juan","Washington",48.47833,-122.94478,48.46953,-122.94246,1,TRUE,2,1,1
+"North Swifts Bay","NSwftsBy","Lopez Island","San Juan","Washington",48.542154,-122.874895,48.546451,-122.87545,1.4,TRUE,1,1,1
+"Andrew's Bay","AndrwBy","Friday Harbor","San Juan","Washington",48.550301,-123.164598,48.547945,-123.161182,0.4,TRUE,1,1,1
+"Crescent Beach","CrcntBch","Orcas Island","San Juan","Washington",48.694023,-122.901159,48.694761,-122.890669,0.5,TRUE,2,2,2
+"Flat Point","FltPnt","Lopez Island","San Juan","Washington",48.553966,-122.900897,48.547172,-122.920002,2.1,TRUE,2,1,1
+"South Beach-East","SthBchEa","San Juan Island","San Juan","Washington",48.455922,-123.001504,48.450895,-122.967219,2.65,TRUE,2,2,2
+"Griffin Bay","GrffnBy","San Juan Island","San Juan","Washington",48.468486,-123.003697,48.466075,-122.998889,0.5,TRUE,2,1,1
+"Cattle Point N","CttlPntN","Friday Harbor","San Juan","Washington",48.455195,-122.961555,48.454571,-122.962047,0.1,TRUE,2,1,1
+"South Obstruction","SthObstr","Orcas Island","San Juan","Washington",48.601665,-122.829386,48.601666,-122.827495,0.2,TRUE,2,2,2
+"Double Cove Beach","DblCvBch","Orcas","San Juan","Washington",48.59339,-122.92639,48.59209,-122.928,0.2,TRUE,2,1,1
+"Cowlitz Bay","CwltzBy","Waldron Island","San Juan","Washington",48.687028,-123.037012,48.699402,-123.071458,3.2,TRUE,2,1,1
+"Davison Head Isthmus","DvsnHdIs","Roche Harbor","San Juan","Washington",48.622153,-123.151083,48.621025,-123.150347,0.16,TRUE,2,1,1
+"Orcas Ferry Landing","OrcsFrry","","San Juan","Washington",48.597859,-122.937799,48.597877,-122.943394,0.25,TRUE,1,1,1
+"Hughes Bay","HghsBy","Lopez Island","San Juan","Washington",48.43043,-122.844135,48.431629,-122.842834,0.17,TRUE,2,1,1
+"Aleck Bay","AlckBy","Lopez Island","San Juan","Washington",48.430797,-122.859581,48.426106,-122.863259,0.65,TRUE,1,1,1
+"John's Pass","JhnsPss","Stuart Island","San Juan","Washington",48.673852,-123.167097,48.670595,-123.169233,0.41,TRUE,1,1,1
+"Rosario","Rosario","Orcas Island","San Juan","Washington",48.646965,-122.870499,48.64717,-122.868878,0.1,TRUE,2,1,1
+"Pear Point Beach","PrPtBch","Friday Harbor","San Juan","Washington",48.518848,-122.979391,48.520034,-122.975925,0.3,TRUE,1,2,2
+"Blakely Island","BlklyIsl","","San Juan","Washington",48.57671,-122.827445,48.572347,-122.831108,0.78858,TRUE,1,1,1
+"County Park - Shaw","CtyPkShw","","San Juan","Washington",48.564439,-122.93431,48.562993,-122.939727,0.44,TRUE,1,1,1
+"Doe Island","DoeIsl","Orcas Island","San Juan","Washington",48.633634,-122.787844,48.633381,-122.787567,0.1,TRUE,1,1,1
+"Grandma's Cove","GrndmCv","San Juan Island","San Juan","Washington",48.458348,-123.023008,48.459264,-123.024243,0.15,TRUE,2,2,2
+"American Camp Beach","AmrcnCmp","San Juan","San Juan","Washington",48.455822,-123.001515,48.454732,-122.988087,1,FALSE,1,2,2
+"PtHammond-FisheryPt","HmmndFsh","Waldron Island","San Juan","Washington",48.722483,-123.010858,48.717451,-123.040088,2,TRUE,2,1,1
+"Judd Cove Preserve ","JdCvPrsv","Eastsound","San Juan","Washington",48.684762,-122.923399,48.685571,-122.921496,0.25,TRUE,1,2,2
+"Mulno Cove Beach","MlnCvBch","Friday Harbor","San Juan","Washington",48.493725,-123.021832,48.495928,-123.020706,0.35,TRUE,2,1,1
+"Otis Perkins","OtsPrkns","Lopez Island","San Juan","Washington",48.514043,-122.933833,48.49657,-122.941876,2.1,TRUE,NA,NA,NA
+"Pirate Ship Beach","PrtShp","Decatur Island","San Juan","Washington",48.5101,-122.78468,48.50646,-122.79159,0.658,TRUE,1,2,2
+"Guthrie Cove A","GthrCvA","Orcas","San Juan","Washington",48.594812,-122.885045,48.59352,-122.886829,0.3,TRUE,1,1,1
+"Eastsound East","EastSndE","Orcas Island","San Juan","Washington",48.693186,-122.90123,48.691455,-122.900666,0.2,TRUE,1,1,1
+"Prevost Harbor","PrvstHbr","Stuart Island","San Juan","Washington",48.683614,-123.209397,48.683614,-123.209397,0.2,TRUE,1,1,1
+"Camp Orkila Beach","CmpOrkla","Orcas Island","San Juan","Washington",48.697925,-122.946682,48.711788,-122.950074,1.5,TRUE,2,1,1
+"North Beach (Orcas Is.)","NBchOrcs","Orcas Island","San Juan","Washington",48.714247,-122.907968,48.713738,-122.904132,0.3,FALSE,NA,NA,NA
+"South Beach-West","SthBchWe","San Juan Island","San Juan","Washington",48.455967,-123.002033,48.456133,-123.0098,0.6,TRUE,2,1,1
+"Otter Point Orcas ","OttrPtO","Orcas Island","San Juan","Washington",48.665193,-122.913113,48.662845,-122.912306,1,TRUE,1,1,1
+"Indian Beach","IndnBch","San Juan Island","San Juan","Washington",48.458641,-122.962913,48.456981,-122.962308,0.6,TRUE,1,1,1
+"Jakle's Lagoon","JklsLgn","Friday Harbor","San Juan","Washington",48.462512,-122.989358,48.461505,-122.983999,0.41,TRUE,1,1,1
+"Doe Bay","DoeBay","Orcas Island","San Juan","Washington",48.636966,-122.786491,48.639071,-122.786258,0.25,TRUE,2,1,1
+"County Park South","CntyPKS","San Juan Island","San Juan","Washington",48.541638,-123.160073,48.540276,-123.159754,0.2,TRUE,2,1,1
+"Guthrie Cove C","GthrCvC","Orcas","San Juan","Washington",48.596412,-122.871976,48.59644,-122.871799,0.1,TRUE,1,1,1
+"Yellow Island","YllwIsl","Yellow Island","San Juan","Washington",48.592885,-123.028894,48.59153,-123.034642,0.8,TRUE,2,1,1
+"Lonesome Cove","LnsmCv","San Juan Island","San Juan","Washington",48.62084,-123.113626,48.621927,-123.108616,0.3,TRUE,1,1,1
+"Lyre River","LyreRvr","Port Angeles","Strait","Washington",48.160216,-123.826922,48.154219,-123.861418,2.5,TRUE,2,1,1
+"Tongue Point","TngPnt","Port Angeles","Strait","Washington",48.163733,-123.704397,48.166595,-123.704846,0.4,TRUE,2,1,1
+"Kiapot Point","KptPnt","Sequim","Strait","Washington",48.088546,-123.041347,48.085035,-123.017712,0.75,TRUE,2,1,1
+"Half Moon Bay","HlfMnBy","Westport","South Coast","Washington",46.904702,-124.130524,46.91267,-124.11836,1.1,TRUE,2,1,1
+"Marine View Drive","MrnVwDr","Ocean Shores","South Coast","Washington",46.95261,-124.174927,46.94432,-124.17519,1.9,TRUE,NA,NA,NA
+"Seaview South","SvwSth","Seaview","South Coast","Washington",46.330379,-124.067844,46.319313,-124.069092,1.2,TRUE,1,1,1
+"Cohasset South","ChsstS","Cohasset Beach","South Coast","Washington",46.85867,-124.11563,46.86644,-124.11905,0.9,TRUE,2,1,1
+"Ocean City South","OcnCtyS","Ocean City","South Coast","Washington",47.070289,-124.176185,47.05048,-124.174395,2.2,TRUE,2,1,1
+"Grayland North","GrylndN","Westport","South Coast","Washington",46.823172,-124.1043,46.809226,-124.101196,1.2,TRUE,2,1,1
+"Salt Aire North","SltAireN","Grayland","South Coast","Washington",46.823169,-124.104307,46.837172,-124.108351,1.6,TRUE,2,1,1
+"North Jetty to MVD (historic)","NJttyMVD","Ocean Shores","South Coast","Washington",NA,NA,NA,NA,3.2,FALSE,NA,NA,NA
+"Ocean City State Park N","ocspn","Ocean City","South Coast","Washington",47.033506,-124.173447,47.050373,-124.174449,1.87,TRUE,2,1,1
+"Griffiths Priday State Park","GrifPrdy","Copalis Beach","South Coast","Washington",47.137798,-124.185453,47.114157,-124.181962,2.69,TRUE,2,1,1
+"Seaview","SeaView","Long Beach","South Coast","Washington",46.330379,-124.067844,46.346064,-124.065443,1.75,TRUE,1,1,1
+"Long Beach - 143rd N","143rdN","Long Beach","South Coast","Washington",46.405989,-124.060858,46.41703,-124.061235,1.8,TRUE,1,1,1
+"Washaway Beach #2","WswyBch2","Grayland","South Coast","Washington",46.741281,-124.091828,46.735737,-124.07701,1.3,TRUE,NA,NA,NA
+"Driftwood South","DrftwdS","Ocean Shores","South Coast","Washington",46.94434,-124.17529,46.93636,-124.17483,0.89,TRUE,1,1,1
+"South Surfside","SthSrfsd","Ocean Park","South Coast","Washington",46.530155,-124.060319,46.515724,-124.060043,1.6,TRUE,2,1,1
+"South Ocean","SthOcn","Ocean Shores","South Coast","Washington",46.983508,-124.172701,46.972248,-124.173097,1.25,TRUE,2,2,2
+"North Jetty","NrthJtty","Ocean Shores","South Coast","Washington",46.927832,-124.173873,46.936368,-124.174835,0.98,TRUE,2,1,1
+"Oysterville North","OystrN","Ocean Park","South Coast","Washington",46.548162,-124.061812,46.560915,-124.062829,1,TRUE,2,1,1
+"Ocean City","OcnCty","Ocean City","South Coast","Washington",47.070123,-124.17579,47.078518,-124.176919,0.8,TRUE,2,1,1
+"South Chance","SthChnc","Ocean Shores","South Coast","Washington",47.007074,-124.172432,46.993929,-124.172819,1.48,TRUE,2,1,1
+"Ocean Park-North","OcnPkNth","Ocean Park","South Coast","Washington",46.504902,-124.059365,46.515598,-124.060801,2.7,TRUE,1,1,1
+"Damon Point-East","DmnPntEa","Ocean Shores","South Coast","Washington",46.94527,-124.130208,46.938355,-124.111189,1.5,TRUE,2,1,1
+"South Pacific","SthPac","Ocean Shores","South Coast","Washington",46.993929,-124.172819,46.98341,-124.172884,1.15,TRUE,2,1,1
+"Klipsan Beach","KlpsnBch","Ocean Park","South Coast","Washington",46.464918,-124.059616,46.447333,-124.058857,1.9,TRUE,2,1,1
+"N. Head Lighthouse S","NrthHdS","Ilwaco","South Coast","Washington",46.296636,-124.076022,46.286906,-124.077364,1.1,TRUE,2,1,1
+"Cohasset North","ChsstN","Cohasset Beach","South Coast","Washington",46.87335,-124.12179,46.86642,-124.11907,0.8,TRUE,1,1,1
+"Marine View Dr S","MarVDrS","Ocean Shores","South Coast","Washington",46.95261,-124.174927,46.94432,-124.17519,0.95,TRUE,2,1,2
+"Damon North","DmnNth","Ocean Shores","South Coast","Washington",47.03258,-124.173221,47.017455,-124.172761,1.67,TRUE,2,1,1
+"Jake's Beach","JksBch","Ocean Shores","South Coast","Washington",47.050373,-124.174449,47.060491,-124.175344,1.13,TRUE,2,1,1
+"N. Head Lighthouse N","NrthHdN","Ilwaco","South Coast","Washington",46.302232,-124.075256,46.311273,-124.071225,1.1,TRUE,1,1,1
+"Twin Harbors State Park","TwnHrbSP","Westport","South Coast","Washington",46.858654,-124.114991,46.84923,-124.112052,1.07,TRUE,2,1,1
+"South Taurus","SthTrus","Ocean Shores","South Coast","Washington",46.972197,-124.172901,46.962604,-124.173998,1.1,TRUE,2,2,2
+"Twin Harbors","TwnHrbrs","Westport","South Coast","Washington",46.858672,-124.114991,46.823072,-124.104128,4,FALSE,NA,NA,NA
+"South Leadbetter A","SLdbttrA","Ocean Park","South Coast","Washington",46.560758,-124.062716,46.572218,-124.064183,1.3,FALSE,NA,NA,NA
+"Midway Beach","Midway","Heather","South Coast","Washington",46.758562,-124.102514,46.76916,-124.104248,1.1,TRUE,1,1,1
+"Cline Spit","ClnSpt","Sequim","Strait","Washington",48.152296,-123.152031,48.148926,-123.166856,1.25,TRUE,2,1,1
+"Crescent Bay","CrscntBy","Port Angeles","Strait","Washington",48.163033,-123.704069,48.158279,-123.717649,1.16,FALSE,NA,NA,NA
+"Cannonball","CnnnBll","Port Angeles","Strait","Washington",48.160318,-123.921716,48.154235,-123.862316,4.94,TRUE,2,1,1
+"Dungeness Spit 3-4","DungSp34","Sequim","Strait","Washington",48.175876,-123.135664,48.18082,-123.115472,1.7,TRUE,NA,NA,NA
+"Cape George South","cpgrgs","Port Townsend","Strait","Washington",48.09551,-122.878985,48.086501,-122.881445,1.1,TRUE,2,1,1
+"Dungeness Spit Tip","DungSpTp","Sequim","Strait","Washington",48.184702,-123.101842,48.18082,-123.115472,1.7,FALSE,NA,NA,NA
+"McCurdy Point","McCrdyPt","Port Townsend","Strait","Washington",48.142651,-122.782007,48.136258,-122.8367,4.5,TRUE,2,1,1
+"Thompson Spit","TomSpt","Sequim","Strait","Washington",48.09818,-122.948682,48.096821,-122.940816,2,TRUE,2,1,1
+"Blyn","Blyn","Sequim","Strait","Washington",48.025787,-123.009804,48.03014,-123.017668,0.7,FALSE,NA,NA,NA
+"John Wayne Marina","JhnWynM","Sequim","Strait","Washington",48.061459,-123.040106,48.058393,-123.046084,0.53,TRUE,2,1,1
+"Port Williams North","PrtWlmsN","Sequim","Strait","Washington",48.097248,-123.046801,48.113679,-123.059035,1.8,TRUE,2,1,1
+"Shipwreck South","ShpwkSth","Sekiu","Strait","Washington",48.31533,-124.4468,48.30636,-124.43467,1.4,TRUE,1,1,1
+"Morse Creek","MrseCrk","Port Angeles","Strait","Washington",48.117776,-123.352881,48.114295,-123.340819,1,TRUE,NA,NA,NA
+"Neah Bay Second Beach","NhByScnd","Neah Bay","Strait","Washington",48.370465,-124.582142,48.37044,-124.577867,0.33,TRUE,1,1,1
+"Three Crabs","ThrCrbs","Sequim","Strait","Washington",48.13791,-123.100943,48.151692,-123.122623,2,TRUE,2,1,1
+"Jamestown","Jmstown","Sequim","Strait","Washington",48.125256,-123.081034,48.134644,-123.096604,2.2,FALSE,NA,NA,NA
+"Dng.Spit Bayside 1-2","DgSpBs12","Sequim","Strait","Washington",48.158586,-123.171383,48.168011,-123.159022,1.7,FALSE,NA,NA,NA
+"Middle Point","MddlPt","Sekiu","Strait","Washington",48.257674,-124.284855,48.259077,-124.296741,0.6,TRUE,2,1,1
+"Bagley Creek","BgleyBch","Port Angeles","Strait","Washington",48.114295,-123.340819,48.11344,-123.323614,1.2,TRUE,NA,NA,NA
+"Dng.Spit Bayside 0-1","DgSpBs01","Sequim","Strait","Washington",48.146908,-123.185989,48.158586,-123.171383,1.7,FALSE,NA,NA,NA
+"West Sequim Bay","WSqB","Sequim","Strait","Washington",48.040545,-123.025886,48.036293,-123.018764,0.8,FALSE,NA,NA,NA
+"Cape George","CpGrg","Port Townsend","Strait","Washington",48.108671,-122.881783,48.128786,-122.845679,3.5,FALSE,NA,NA,NA
+"Dungeness Spit 1-2","DungSp12","Sequim","Strait","Washington",48.15777,-123.173879,48.166468,-123.161973,1.7,TRUE,2,1,1
+"Warmhouse Beach","WrmhsBch","Neah Bay","Strait","Washington",48.388375,-124.66788,48.391184,-124.659573,0.7,TRUE,1,1,1
+"Front Beach (NB)","Frnt","Neah Bay","Strait","Washington",48.368887,-124.602022,48.367512,-124.607285,1.6,TRUE,1,1,1
+"Dungeness Spit 3-5","DungSp35","Sequim","Strait","Washington",48.175876,-123.135664,48.184702,-123.101842,3.4,TRUE,2,1,1
+"Ediz Hook","EdizHook","Port Angeles","Strait","Washington",48.138709,-123.45573,48.141485,-123.42816,2.2,TRUE,2,2,2
+"Dungeness Spit 2-3","DungSp23","Sequim","Strait","Washington",48.166468,-123.161973,48.175876,-123.135664,1.7,TRUE,2,1,1
+"Neah Bay First Beach","NhByFrst","Neah Bay","Strait","Washington",48.371276,-124.587249,48.371973,-124.584385,0.24,TRUE,1,1,1
+"Dungeness Spit 0-1","DungSp01","Sequim","Strait","Washington",48.146285,-123.187476,48.15777,-123.173879,1.7,TRUE,2,1,1
+"Dng.Spit Bayside 2-3","DgSpBs23","Sequim","Strait","Washington",48.168011,-123.159022,48.174735,-123.143135,1.7,FALSE,NA,NA,NA
+"Slip Point","SlpPnt","Clallam Bay","Strait","Washington",48.261118,-124.2521113,48.256201,-124.2604267,0.86,TRUE,2,1,1
+"Shipwreck Point","ShpwrkPt","Sekiu","Strait","Washington",48.315632,-124.446617,48.318471,-124.455399,2.1,TRUE,2,1,1
+"Freshwater Bay","FrshwtBy","","Strait","Washington",48.149794,-123.638487,48.1465,-123.641562,1.4,TRUE,2,1,1
+"Graysmarsh","Graymrsh","Sequim","Strait","Washington",48.12524,-123.081048,48.115719,-123.060753,1.9,TRUE,2,2,2
+"Island View Beach","IslndVw","Sekiu","Strait","Washington",48.297812,-124.410092,48.306276,-124.434018,1.6,TRUE,1,1,1
+"Ennis Creek","EnnsCrk","Port Angeles","Strait","Washington",48.117219,-123.405441,48.114455,-123.397974,0.7,TRUE,2,2,2
+"Jamestown Road Beach","JmstwnRd","Sequim","Strait","Washington",48.125269,-123.081098,48.130268,-123.090255,0.9,FALSE,NA,NA,NA
+"Clallam Bay Park W","ClmByPkW","Clallam Bay","Strait","Washington",48.25528,-124.261941,48.2544,-124.275856,1,TRUE,2,1,1
+"Whiskey Creek","WhskyCr","Port Angeles","Strait","Washington",48.155708,-123.779915,48.159367,-123.766472,2.4,TRUE,1,2,1
+"Sekiu River West","SknRvrW","Sekiu","Strait","Washington",48.288099,-124.395137,48.291087,-124.400088,1.6,TRUE,1,1,1
+"Lyre River Estuary","LrRvrEst","Port Angeles","Strait","Washington",48.160241,-123.827219,48.156484,-123.818583,0.76,TRUE,2,1,1
+"East Elwha","EElwha","Port Angeles","Strait","Washington",48.150641,-123.553184,48.147053,-123.564381,1,TRUE,2,1,1
+"Dungeness Bluff","DngBlff","Sequim","Strait","Washington",48.146949,-123.186471,48.138167,-123.199235,1.3,TRUE,2,2,2
+"Beckett Point","BckttPt","Port Townsend","Strait","Washington",48.076282,-122.891312,48.082788,-122.885148,0.94,TRUE,2,1,1
+"Port Williams","PrtWllms","Sequim","Strait","Washington",48.097248,-123.046801,48.083949,-123.045408,0.6,TRUE,1,1,1
+"Cape George East","CpGrgE","Port Townsend","Strait","Washington",48.128786,-122.845679,48.11639,-122.865179,2,TRUE,1,1,1
+"Point Wilson","PtWlsn","Port Townsend","Strait","Washington",48.144056,-122.753789,48.142495,-122.782147,2,TRUE,1,2,1
+"Diamond Point North","DmndPntN","Sequim","Strait","Washington",48.096028,-122.927278,48.095882,-122.923434,0.7,TRUE,2,1,1
+"Deep Creek","DeepCrk","","Strait","Washington",48.172515,-124.005371,48.172143,-124.020028,1.3,TRUE,2,1,1
+"Elwha West","ElwhWst","Port Angeles","Strait","Washington",48.146049,-123.567817,48.138376,-123.578001,1.2,TRUE,2,2,1
+"Panorama Vista","PnrmVst","Sequim","Strait","Washington",48.088546,-123.009156,48.085035,-123.017712,0.75,TRUE,2,1,1
+"Dungeness Spit 4-5","DungSp45","Sequim","Strait","Washington",48.18082,-123.115472,48.184702,-123.101842,1.7,TRUE,NA,NA,NA
+"Travis Spit","TrvsSpt","Sequim","Strait","Washington",48.088546,-123.009156,48.079985,-123.041347,1.5,TRUE,NA,NA,NA
+"Cape George West","CpGrgW","Port Townsend","Strait","Washington",48.108671,-122.881783,48.11639,-122.865179,1.5,TRUE,2,1,1
+"Diamond Point East","DmndPntE","Sequim","Strait","Washington",48.094662,-122.914818,48.089053,-122.920365,0.8,TRUE,2,1,1
+"Hoko West","HokoW","Sekiu","Strait","Washington",48.287099,-124.362035,48.288348,-124.39409,2.6,TRUE,2,1,1
+"Hollywood Beach","HllwdBch","Port Angeles","Strait","Washington",48.119287,-123.428178,48.120013,-123.428863,0.1,TRUE,2,2,1
+"Neah Bay Third Beach","NhByThrd","Neah Bay","Strait","Washington",48.367586,-124.564988,48.366049,-124.572951,0.6,TRUE,1,1,1
+"Twin River","TwnRvr","Clallam Bay","Strait","Washington",48.165625,-123.946971,48.160174,-123.921994,2.5,TRUE,2,1,1
